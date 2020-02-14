@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="app_name">Uninstall app manager</string>
+    <string name="testing" translatable="false">Testing</string>
+    <string name="testing_are_awesome" translatable="false">Testing is awecome</string>
+    <string name="facebook" translatable="false">Facebook</string>
+
+
+    <string name="go_cai_dat_ung_dung">Uninstall application</string>
+    <string name="cai_dat">Setting</string>
+    <string name="thong_tin">Info</string>
+    <string name="chia_se">Share</string>
+    <string name="danh_gia">Rate</string>
+    <string name="lich_su">History</string>
+    <string name="choose">Choose one</string>
+    <string name="tac_gia">Author</string>
+    <string name="hdp_solutions">HDP Solution</string>
+    <string name="chinh_sach_bao_mat">Privacy Policy</string>
+    <string name="link_chinh_sach_bao_mat">http://yourprivacypolicy.com</string>
+    <string name="link_home">http://yourdomain.com/</string>
+    <string name="email">Email</string>
+    <string name="EmailFeedback">yourfeedbackemail@gmail.com</string>
+    <string name="ok">OK</string>
+    <string name="feedback_app">Feedback for app Uninstall Manager</string>
+    <string name="send_feesback">Send Feedback</string>
+
+    <string name="ung_dung_ng_dung">User application</string>
+    <string name="ung_dung_he_thong">System application</string>
+    <string name="thanh_trang_thai">Status bar</string>
+    <string name="kich_hoat">Activated</string>
+    <string name="bieu_tuong_tren_thanh">Status bar icon</string>
+    <string name="che_do">Mode</string>
+    <string name="mb">MB</string>
+    <string name="chon_tat_ca">Select All</string>
+    <string name="sap_xep">Sort</string>
+    <string name="ten">Name</string>
+    <string name="ngay">Day</string>
+    <string name="dung_luong">Capacity</string>
+    <string name="a_z">Từ A - Z</string>
+    <string name="z_a">Từ Z - A</string>
+    <string name="huy">Cancel</string>
+    <string name="go_cai_dat">uninstall</string>
+    <string name="truy_cap">Access</string>
+    <string name="chi_tiet">Detail</string>
+    <string name="tim_kiem_gp">Search in google play</string>
+    <string name="se_bi_go">Will be uninstalled</string>
+    <string name="go_thanh_cong">Uninstall successfully</string>
+
+    <string name="lich_su_go">History Uninstall</string>
+    <string name="chi_luu_app">Only save applications that have been removed in the last 3 months</string>
+    <string name="go_cai_dat_luc">Uninstall at</string>
+    <string name="xac_nhan">Confirm</string>
+    <string name="chac_chan_xoa">Are you sure you want to delete this item?</string>
+    <string name="dong_y">Agree</string>
+    <string name="xoa_thanh_cong">Delete successfully</string>
+    <string name="xoa_that_bai">Delete fail</string>
+    <string name="xoa_tat_ca">Are you sure you want to delete all history?</string>
+    <string name="tong">Total:</string>
+    <string name="ung_dung">Application</string>
+    <string name="tim_kiem">Search</string>
+    <string name="bo_nho_trong">Memory free:</string>
+    <string name="chon">Select</string>
+
+    <string name="notification">Access the application to view information and uninstall other applications quickly</string>
+    <string name="ngung_kich_hoat">stop activation</string>
+    <string name="sang">Light</string>
+    <string name="toi">Dark</string>
+    <string name="doublebacktoexit">Press again to exit</string>
+
+</resources>

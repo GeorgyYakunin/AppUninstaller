@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="@dimen/_2sdp"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <CheckBox
+        android:id="@+id/cbItem"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <FrameLayout
+        android:paddingRight="@dimen/_11sdp"
+        android:paddingBottom="@dimen/_11sdp"
+        android:paddingLeft="@dimen/_6sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iconApp"
+            android:layout_gravity="center|left"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_facebook"
+            android:layout_width="@dimen/_36sdp"
+            android:layout_height="@dimen/_36sdp" />
+        <LinearLayout
+            android:layout_marginLeft="@dimen/_32sdp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textStyle="bold"
+                android:id="@+id/appName"
+                android:padding="@dimen/_2sdp"
+                android:textSize="@dimen/_12sdp"
+                android:textColor="@color/color_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:padding="@dimen/_6sdp"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/txtSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/_6sdp"
+                    android:layout_marginRight="@dimen/_6sdp"
+                    android:src="@drawable/ic_dot"
+                    android:layout_width="@dimen/_6sdp"
+                    android:layout_height="@dimen/_6sdp" />
+                <TextView
+                    android:id="@+id/txtDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/imgMore"
+            android:layout_gravity="right|center"
+            android:src="@drawable/ic_more_2"
+            android:layout_width="@dimen/_22sdp"
+            android:layout_height="@dimen/_22sdp" />
+        <View
+            android:layout_gravity="bottom"
+            android:background="@color/durty_white"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+    </FrameLayout>
+</LinearLayout>

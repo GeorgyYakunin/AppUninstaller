@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_260sdp"
+    android:layout_height="@dimen/_110sdp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtSort"
+        android:textSize="@dimen/_14sdp"
+        android:textColor="@color/color_black"
+        android:padding="@dimen/_11sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sap_xep" />
+
+    <TextView
+        android:id="@+id/txtCaiDat"
+        android:textSize="@dimen/_14sdp"
+        android:textColor="@color/color_black"
+        android:padding="@dimen/_11sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cai_dat" />
+</LinearLayout>

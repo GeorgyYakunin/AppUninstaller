@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uninstall app manager</string>
+    <string name="go_cai_dat_ung_dung">Удалить приложение
+</string>
+    <string name="cai_dat">Настройка</string>
+    <string name="thong_tin">Информация</string>
+    <string name="chia_se">Поделиться</string>
+    <string name="danh_gia">Темп</string>
+    <string name="lich_su">История</string>
+    <string name="choose">Выбери один
+</string>
+    <string name="tac_gia">Автор</string>
+    <string name="hdp_solutions">HDP Решение</string>
+    <string name="chinh_sach_bao_mat">Политика конфиденциальности
+</string>
+    <string name="link_chinh_sach_bao_mat">http://yourprivacypolicy.com</string>
+    <string name="link_home">http://yourdomain.com/</string>
+    <string name="email">Email</string>
+    <string name="EmailFeedback">yourfeedbackemail@gmail.com</string>
+    <string name="ok">OK</string>
+    <string name="feedback_app">Отзыв о приложении Uninstall Manager
+</string>
+    <string name="ung_dung_ng_dung">Пользовательское приложение
+</string>
+    <string name="ung_dung_he_thong">Системное приложение
+</string>
+    <string name="thanh_trang_thai">Статус бар
+</string>
+    <string name="kich_hoat">Активированная</string>
+    <string name="bieu_tuong_tren_thanh">Значок строки состояния
+</string>
+    <string name="che_do">Мод</string>
+    <string name="mb">MB</string>
+    <string name="chon_tat_ca">Выбрать все
+</string>
+    <string name="sap_xep">Сортировать</string>
+    <string name="ten">Имя</string>
+    <string name="ngay">День</string>
+    <string name="dung_luong">Вместимость</string>
+    <string name="a_z">Từ A - Z</string>
+    <string name="z_a">Từ Z - A</string>
+    <string name="huy">Cancel</string>
+    <string name="go_cai_dat">деинсталляция</string>
+    <string name="truy_cap">Доступ</string>
+    <string name="chi_tiet">Подробности</string>
+    <string name="tim_kiem_gp">Поиск в Google Play
+</string>
+    <string name="se_bi_go">Будет удален
+</string>
+    <string name="go_thanh_cong">Успешно удалено</string>
+
+    <string name="lich_su_go">История Удалений</string>
+    <string name="chi_luu_app">Сохранены только те приложения, которые были удалены за последние 3 месяца
+</string>
+    <string name="go_cai_dat_luc">Удалить в
+</string>
+    <string name="xac_nhan">Подтверждение</string>
+    <string name="chac_chan_xoa">Вы уверены, что хотите удалить этот элемент?</string>
+    <string name="dong_y">Согласен</string>
+    <string name="xoa_thanh_cong">Успешно удалено</string>
+    <string name="xoa_that_bai">Ошибка удаления</string>
+    <string name="xoa_tat_ca">Вы уверены, что хотите удалить всю историю?</string>
+    <string name="tong">Общее количество:</string>
+    <string name="ung_dung">Приложение</string>
+    <string name="tim_kiem">Посик</string>
+    <string name="bo_nho_trong">Свободной памяти:</string>
+    <string name="chon">Выбрать</string>
+
+    <string name="notification">Доступ к приложению для просмотра информации и быстрого удаления других приложений
+</string>
+    <string name="ngung_kich_hoat">прекратить активацию
+</string>
+    <string name="sang">Светлый</string>
+    <string name="toi">Темный</string>
+    <string name="doublebacktoexit">Нажмите еще раз, чтобы выйти
+</string>
+</resources>

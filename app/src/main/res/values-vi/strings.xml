@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Quản lý gỡ cài đặt ứng dụng</string>
+    <string name="go_cai_dat_ung_dung">Gỡ cài đặt ứng dụng</string>
+    <string name="cai_dat">Cài đặt</string>
+    <string name="thong_tin">Thông tin</string>
+    <string name="chia_se">Chia sẻ</string>
+    <string name="danh_gia">Đánh giá</string>
+    <string name="lich_su">Lịch sử</string>
+    <string name="choose">Chọn ứng dụng chia sẻ</string>
+    <string name="tac_gia">Tác giả</string>
+    <string name="hdp_solutions">HDP Solution</string>
+    <string name="chinh_sach_bao_mat">Chính sách bảo mật</string>
+    <string name="link_chinh_sach_bao_mat">http://yourprivacypolicy.com</string>
+    <string name="link_home">http://yourdomain.com/</string>
+    <string name="email">Email</string>
+    <string name="EmailFeedback">yourfeedbackemail@gmail.com</string>
+    <string name="ok">OK</string>
+    <string name="feedback_app">Phản hồi cho app Gỡ cài đặt ứng dụng</string>
+    <string name="send_feesback">Gửi phản hồi</string>
+
+    <string name="ung_dung_ng_dung">Ứng dụng người dùng</string>
+    <string name="ung_dung_he_thong">Ứng dụng hệ thống</string>
+    <string name="thanh_trang_thai">Thanh trạng thái</string>
+    <string name="kich_hoat">Kích hoạt</string>
+    <string name="bieu_tuong_tren_thanh">Biểu tượng trên thanh trạng thái</string>
+    <string name="che_do">Chế độ</string>
+    <string name="mb">MB</string>
+    <string name="chon_tat_ca">Chọn tất cả</string>
+    <string name="sap_xep">Sắp xếp</string>
+    <string name="ten">Tên</string>
+    <string name="ngay">Ngày</string>
+    <string name="dung_luong">Dung lượng</string>
+    <string name="a_z">Từ A - Z</string>
+    <string name="z_a">Từ Z - A</string>
+    <string name="huy">Hủy</string>
+    <string name="go_cai_dat">Gỡ cài đặt</string>
+    <string name="truy_cap">Truy cập</string>
+    <string name="chi_tiet">Chi tiết</string>
+    <string name="tim_kiem_gp">Tìm kiếm trong google play</string>
+    <string name="se_bi_go">Sẽ bị gỡ cài đặt</string>
+    <string name="go_thanh_cong">Gỡ cài đặt thành công</string>
+
+    <string name="lich_su_go">Lịch sử gỡ cài đặt</string>
+    <string name="chi_luu_app">Chỉ lưu những ứng dụng bị gỡ trong 3 tháng trở lại đây</string>
+    <string name="go_cai_dat_luc">Gỡ cài đặt lúc</string>
+    <string name="xac_nhan">Xác nhận</string>
+    <string name="chac_chan_xoa">Bạn có chắc chắn muốn xóa item này?</string>
+    <string name="dong_y">Đồng ý</string>
+    <string name="xoa_thanh_cong">Xóa thành công</string>
+    <string name="xoa_that_bai">Xóa thất bại</string>
+    <string name="xoa_tat_ca">Bạn có chắc chắn muốn xóa tất cả lịch sử?</string>
+    <string name="tong">Tổng:</string>
+    <string name="ung_dung">ứng dụng</string>
+    <string name="tim_kiem">Tìm kiếm</string>
+    <string name="bo_nho_trong">Bộ nhớ trống:</string>
+    <string name="chon">Chọn</string>
+    <string name="notification">Truy cập ứng dụng để xem thông tin và gỡ cài đặt các ứng dụng khác một cách nhanh chóng.</string>
+
+    <string name="ngung_kich_hoat">Ngừng kích hoạt</string>
+    <string name="sang">Sáng</string>
+    <string name="toi">Tối</string>
+    <string name="doublebacktoexit">Ấn lại để thoát</string>
+</resources>
