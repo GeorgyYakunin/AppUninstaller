@@ -11,19 +11,6 @@
         android:title="@string/lich_su"
         android:icon="@drawable/ic_history"
         />
-    <item
-        android:id="@+id/itDanhGia"
-        android:title="@string/danh_gia"
-        android:icon="@drawable/ic_rate"
-        />
-    <item
-        android:id="@+id/itShare"
-        android:title="@string/chia_se"
-        android:icon="@drawable/ic_share"
-        />
-    <item
-        android:id="@+id/itThongTin"
-        android:title="@string/thong_tin"
-        android:icon="@drawable/ic_notice"
-        />
+
+
 </menu>

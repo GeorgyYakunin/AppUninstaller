@@ -236,22 +236,22 @@ public class ActivityMain extends MainActivity implements View.OnClickListener, 
                 i.setData(Uri.parse(url));
                 startActivity(i);
                 break;
-            case R.id.txtEmail:
-//                Intent Email = new Intent(Intent.ACTION_SEND);
-//                Email.setType("text/email");
-//                Email.putExtra(Intent.EXTRA_EMAIL, new String[]{getResources().getString(R.string.EmailFeedback)});
-//                Email.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.feedback_app));
-//                startActivity(Intent.createChooser(Email, getResources().getString(R.string.send_feesback)));
-                break;
+//            case R.id.txtEmail:
+////                Intent Email = new Intent(Intent.ACTION_SEND);
+////                Email.setType("text/email");
+////                Email.putExtra(Intent.EXTRA_EMAIL, new String[]{getResources().getString(R.string.EmailFeedback)});
+////                Email.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.feedback_app));
+////                startActivity(Intent.createChooser(Email, getResources().getString(R.string.send_feesback)));
+//                break;
             case R.id.txtOK:
                 mDialogThongTin.cancel();
                 break;
-            case R.id.txtTacGia:
-//                String url1 = getResources().getString(R.string.link_home);
-//                Intent i1 = new Intent(Intent.ACTION_VIEW);
-//                i1.setData(Uri.parse(url1));
-//                startActivity(i1);
-                break;
+//            case R.id.txtTacGia:
+////                String url1 = getResources().getString(R.string.link_home);
+////                Intent i1 = new Intent(Intent.ACTION_VIEW);
+////                i1.setData(Uri.parse(url1));
+////                startActivity(i1);
+//                break;
             case R.id.lnAppUser:
                 showDefault();
                 break;
@@ -350,42 +350,42 @@ public class ActivityMain extends MainActivity implements View.OnClickListener, 
                 startActivity(new Intent(ActivityMain.this, ActivityAppSetting.class));
 
                 break;
-            case R.id.itDanhGia:
-                Uri uri = Uri.parse("market://details?id=" + getPackageName());
-                Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
-                // To count with Play market backstack, After pressing back button,
-                // to taken back to our application, we need to add following flags to intent.
-                goToMarket.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY |
-                        Intent.FLAG_ACTIVITY_NEW_DOCUMENT |
-                        Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
-                try {
-                    startActivity(goToMarket);
-                } catch (ActivityNotFoundException e) {
-                    startActivity(new Intent(Intent.ACTION_VIEW,
-                            Uri.parse("http://play.google.com/store/apps/details?id=" + getPackageName())));
-                }
-                break;
-            case R.id.itShare:
-                Intent shareIntent = new Intent(Intent.ACTION_SEND);
-                shareIntent.setType("text/plain");
-                shareIntent.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.app_name));
-                shareIntent.putExtra(Intent.EXTRA_TEXT, getPackageName());
-                startActivity(Intent.createChooser(shareIntent, getResources().getString(R.string.choose)));
-                break;
-            case R.id.itThongTin:
-                mDialogThongTin = new Dialog(this);
-                mDialogThongTin.setContentView(R.layout.dialog_in_and_for);
-                mTxtChinhSachBaoMat = mDialogThongTin.findViewById(R.id.txtChinhSachBaoMat);
-                mTxtEmail = mDialogThongTin.findViewById(R.id.txtEmail);
-                mTxtOk = mDialogThongTin.findViewById(R.id.txtOK);
-                mTxtTacGia = mDialogThongTin.findViewById(R.id.txtTacGia);
-
-                mTxtOk.setOnClickListener(this);
-                mTxtTacGia.setOnClickListener(this);
-                mTxtChinhSachBaoMat.setOnClickListener(this);
-                mTxtEmail.setOnClickListener(this);
-                mDialogThongTin.show();
-                break;
+//            case R.id.itDanhGia:
+//                Uri uri = Uri.parse("market://details?id=" + getPackageName());
+//                Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+//                // To count with Play market backstack, After pressing back button,
+//                // to taken back to our application, we need to add following flags to intent.
+//                goToMarket.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY |
+//                        Intent.FLAG_ACTIVITY_NEW_DOCUMENT |
+//                        Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
+//                try {
+//                    startActivity(goToMarket);
+//                } catch (ActivityNotFoundException e) {
+//                    startActivity(new Intent(Intent.ACTION_VIEW,
+//                            Uri.parse("http://play.google.com/store/apps/details?id=" + getPackageName())));
+//                }
+//                break;
+//            case R.id.itShare:
+//                Intent shareIntent = new Intent(Intent.ACTION_SEND);
+//                shareIntent.setType("text/plain");
+//                shareIntent.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.app_name));
+//                shareIntent.putExtra(Intent.EXTRA_TEXT, getPackageName());
+//                startActivity(Intent.createChooser(shareIntent, getResources().getString(R.string.choose)));
+//                break;
+//            case R.id.itThongTin:
+////                mDialogThongTin = new Dialog(this);
+////                mDialogThongTin.setContentView(R.layout.dialog_in_and_for);
+////                mTxtChinhSachBaoMat = mDialogThongTin.findViewById(R.id.txtChinhSachBaoMat);
+////                mTxtEmail = mDialogThongTin.findViewById(R.id.txtEmail);
+////                mTxtOk = mDialogThongTin.findViewById(R.id.txtOK);
+////                mTxtTacGia = mDialogThongTin.findViewById(R.id.txtTacGia);
+////
+////                mTxtOk.setOnClickListener(this);
+////                mTxtTacGia.setOnClickListener(this);
+////                mTxtChinhSachBaoMat.setOnClickListener(this);
+////                mTxtEmail.setOnClickListener(this);
+////                mDialogThongTin.show();
+//                break;
             case R.id.itLichSu:
 
                 startActivity(new Intent(ActivityMain.this, ActivityUninstallHistory.class));

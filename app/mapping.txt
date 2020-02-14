@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 1.5.69
 # min_api: 19
-# pg_map_id: d497028
+# pg_map_id: 5a376f5
 android.support.v4.app.INotificationSideChannel$Stub -> android.support.v4.app.INotificationSideChannel$Stub:
     20:22:void <init>() -> <init>
     40:40:android.os.IBinder asBinder() -> asBinder
@@ -137,28 +137,28 @@ androidx.activity.OnBackPressedDispatcher$OnBackPressedCancellable -> androidx.a
 androidx.activity.OnBackPressedDispatcherOwner -> a.a.c:
     androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher() -> a
 androidx.activity.R -> a.a.d:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.activity.R$attr -> a.a.d$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.activity.R$color -> a.a.d$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.activity.R$dimen -> a.a.d$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.activity.R$drawable -> a.a.d$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.activity.R$id -> a.a.d$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.activity.R$integer -> a.a.d$f:
-    494:494:void <init>() -> <init>
+    790:790:void <init>() -> <init>
 androidx.activity.R$layout -> a.a.d$g:
-    198:198:void <init>() -> <init>
+    134:134:void <init>() -> <init>
 androidx.activity.R$string -> a.a.d$h:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.activity.R$style -> a.a.d$i:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.activity.R$styleable -> a.a.d$j:
-    205:221:void <clinit>() -> <clinit>
-    562:562:void <init>() -> <init>
+    287:272:void <clinit>() -> <clinit>
+    126:126:void <init>() -> <init>
 androidx.annotation.AnimRes -> a.b.a:
 androidx.annotation.AnimatorRes -> a.b.b:
 androidx.annotation.AnyRes -> a.b.c:
@@ -248,34 +248,34 @@ androidx.annotation.VisibleForTesting -> a.b.x0:
 androidx.annotation.WorkerThread -> a.b.y0:
 androidx.annotation.XmlRes -> a.b.z0:
 androidx.appcompat.R -> a.c.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.appcompat.R$anim -> a.c.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.appcompat.R$attr -> a.c.a$b:
-    320:320:void <init>() -> <init>
+    863:863:void <init>() -> <init>
 androidx.appcompat.R$bool -> a.c.a$c:
-    325:325:void <init>() -> <init>
+    460:460:void <init>() -> <init>
 androidx.appcompat.R$color -> a.c.a$d:
-    426:426:void <init>() -> <init>
+    189:189:void <init>() -> <init>
 androidx.appcompat.R$dimen -> a.c.a$e:
-    111:111:void <init>() -> <init>
+    607:607:void <init>() -> <init>
 androidx.appcompat.R$drawable -> a.c.a$f:
-    308:308:void <init>() -> <init>
+    846:846:void <init>() -> <init>
 androidx.appcompat.R$id -> a.c.a$g:
-    381:381:void <init>() -> <init>
+    306:306:void <init>() -> <init>
 androidx.appcompat.R$integer -> a.c.a$h:
-    506:506:void <init>() -> <init>
+    192:192:void <init>() -> <init>
 androidx.appcompat.R$interpolator -> a.c.a$i:
-    343:343:void <init>() -> <init>
+    339:339:void <init>() -> <init>
 androidx.appcompat.R$layout -> a.c.a$j:
-    585:585:void <init>() -> <init>
+    344:344:void <init>() -> <init>
 androidx.appcompat.R$string -> a.c.a$k:
-    169:169:void <init>() -> <init>
+    752:752:void <init>() -> <init>
 androidx.appcompat.R$style -> a.c.a$l:
-    3093:3093:void <init>() -> <init>
+    1853:1853:void <init>() -> <init>
 androidx.appcompat.R$styleable -> a.c.a$m:
-    1374:1882:void <clinit>() -> <clinit>
-    3102:3102:void <init>() -> <init>
+    2264:3198:void <clinit>() -> <clinit>
+    3372:3372:void <init>() -> <init>
 androidx.appcompat.app.ActionBar -> a.c.b.a:
     int DISPLAY_SHOW_CUSTOM -> h
     int DISPLAY_HOME_AS_UP -> f
@@ -2016,28 +2016,28 @@ androidx.appcompat.graphics.drawable.StateListDrawable$StateListState -> a.c.d.a
     376:376:android.graphics.drawable.Drawable newDrawable(android.content.res.Resources) -> newDrawable
     343:348:void mutate() -> q
 androidx.appcompat.resources.R -> a.c.e.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.appcompat.resources.R$attr -> a.c.e.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.appcompat.resources.R$color -> a.c.e.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.appcompat.resources.R$dimen -> a.c.e.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.appcompat.resources.R$drawable -> a.c.e.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.appcompat.resources.R$id -> a.c.e.a$e:
-    853:853:void <init>() -> <init>
+    797:797:void <init>() -> <init>
 androidx.appcompat.resources.R$integer -> a.c.e.a$f:
-    233:233:void <init>() -> <init>
+    787:787:void <init>() -> <init>
 androidx.appcompat.resources.R$layout -> a.c.e.a$g:
-    824:824:void <init>() -> <init>
+    199:199:void <init>() -> <init>
 androidx.appcompat.resources.R$string -> a.c.e.a$h:
-    131:131:void <init>() -> <init>
+    634:634:void <init>() -> <init>
 androidx.appcompat.resources.R$style -> a.c.e.a$i:
-    443:443:void <init>() -> <init>
+    18:18:void <init>() -> <init>
 androidx.appcompat.resources.R$styleable -> a.c.e.a$j:
-    32:328:void <clinit>() -> <clinit>
-    500:500:void <init>() -> <init>
+    429:558:void <clinit>() -> <clinit>
+    166:166:void <init>() -> <init>
 androidx.appcompat.text.AllCapsTransformationMethod -> a.c.f.a:
     java.util.Locale mLocale -> b
     37:39:void <init>(android.content.Context) -> <init>
@@ -6138,7 +6138,7 @@ androidx.appcompat.widget.ViewUtils -> a.c.h.g1:
 androidx.appcompat.widget.WithHint -> a.c.h.h1:
     java.lang.CharSequence getHint() -> a
 androidx.arch.core.R -> a.d.a.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.arch.core.executor.ArchTaskExecutor -> a.d.a.b.a:
     androidx.arch.core.executor.ArchTaskExecutor sInstance -> c
     java.util.concurrent.Executor sMainThreadExecutor -> d
@@ -6252,18 +6252,18 @@ androidx.arch.core.internal.SafeIterableMap$SupportRemove -> a.d.a.c.b$f:
 androidx.arch.core.util.Function -> a.d.a.d.a:
     java.lang.Object apply(java.lang.Object) -> a
 androidx.cardview.R -> a.e.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.cardview.R$attr -> a.e.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.cardview.R$color -> a.e.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.cardview.R$dimen -> a.e.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.cardview.R$style -> a.e.a$d:
-    789:789:void <init>() -> <init>
+    807:807:void <init>() -> <init>
 androidx.cardview.R$styleable -> a.e.a$e:
-    119:119:void <clinit>() -> <clinit>
-    324:324:void <init>() -> <init>
+    647:647:void <clinit>() -> <clinit>
+    398:398:void <init>() -> <init>
 androidx.cardview.widget.CardView -> a.e.b.a:
     81:93:void <clinit>() -> <clinit>
     113:114:void <init>(android.content.Context) -> <init>
@@ -8477,37 +8477,37 @@ androidx.constraintlayout.widget.Placeholder -> a.g.b.h:
     169:187:void setContentId(int) -> setContentId
     95:96:void setEmptyVisibility(int) -> setEmptyVisibility
 androidx.constraintlayout.widget.R -> a.g.b.i:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.constraintlayout.widget.R$attr -> a.g.b.i$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.constraintlayout.widget.R$id -> a.g.b.i$b:
-    587:587:void <init>() -> <init>
+    212:212:void <init>() -> <init>
 androidx.constraintlayout.widget.R$styleable -> a.g.b.i$c:
-    486:398:void <clinit>() -> <clinit>
-    752:752:void <init>() -> <init>
+    309:217:void <clinit>() -> <clinit>
+    692:692:void <init>() -> <init>
 androidx.coordinatorlayout.R -> a.h.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.coordinatorlayout.R$attr -> a.h.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.coordinatorlayout.R$color -> a.h.a$b:
-    364:364:void <init>() -> <init>
+    793:793:void <init>() -> <init>
 androidx.coordinatorlayout.R$dimen -> a.h.a$c:
-    118:118:void <init>() -> <init>
+    786:786:void <init>() -> <init>
 androidx.coordinatorlayout.R$drawable -> a.h.a$d:
-    702:702:void <init>() -> <init>
+    78:78:void <init>() -> <init>
 androidx.coordinatorlayout.R$id -> a.h.a$e:
-    552:552:void <init>() -> <init>
+    118:118:void <init>() -> <init>
 androidx.coordinatorlayout.R$integer -> a.h.a$f:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.coordinatorlayout.R$layout -> a.h.a$g:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.coordinatorlayout.R$string -> a.h.a$h:
-    562:562:void <init>() -> <init>
-androidx.coordinatorlayout.R$style -> a.h.a$i:
-    613:613:void <init>() -> <init>
-androidx.coordinatorlayout.R$styleable -> a.h.a$j:
-    492:434:void <clinit>() -> <clinit>
     126:126:void <init>() -> <init>
+androidx.coordinatorlayout.R$style -> a.h.a$i:
+    518:518:void <init>() -> <init>
+androidx.coordinatorlayout.R$styleable -> a.h.a$j:
+    724:57:void <clinit>() -> <clinit>
+    317:317:void <init>() -> <init>
 androidx.coordinatorlayout.widget.CoordinatorLayout -> androidx.coordinatorlayout.widget.CoordinatorLayout:
     118:152:void <clinit>() -> <clinit>
     207:208:void <init>(android.content.Context) -> <init>
@@ -8743,28 +8743,28 @@ androidx.coordinatorlayout.widget.ViewGroupUtils -> a.h.b.b:
     82:94:void offsetDescendantMatrix(android.view.ViewParent,android.view.View,android.graphics.Matrix) -> a
     48:67:void offsetDescendantRect(android.view.ViewGroup,android.view.View,android.graphics.Rect) -> b
 androidx.core.R -> a.i.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.core.R$attr -> a.i.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.core.R$color -> a.i.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.core.R$dimen -> a.i.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.core.R$drawable -> a.i.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.core.R$id -> a.i.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.core.R$integer -> a.i.a$f:
-    494:494:void <init>() -> <init>
+    790:790:void <init>() -> <init>
 androidx.core.R$layout -> a.i.a$g:
-    198:198:void <init>() -> <init>
+    134:134:void <init>() -> <init>
 androidx.core.R$string -> a.i.a$h:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.core.R$style -> a.i.a$i:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.core.R$styleable -> a.i.a$j:
-    205:221:void <clinit>() -> <clinit>
-    562:562:void <init>() -> <init>
+    287:272:void <clinit>() -> <clinit>
+    126:126:void <init>() -> <init>
 androidx.core.accessibilityservice.AccessibilityServiceInfoCompat -> a.i.b.a:
     int FLAG_REPORT_VIEW_IDS -> j
     int FLAG_REQUEST_FILTER_KEY_EVENTS -> k
@@ -13755,7 +13755,7 @@ androidx.core.widget.TintableCompoundButton -> a.i.r.n:
 androidx.core.widget.TintableCompoundDrawablesView -> a.i.r.o:
 androidx.core.widget.TintableImageSourceView -> a.i.r.p:
 androidx.cursoradapter.R -> a.j.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.cursoradapter.widget.CursorAdapter -> a.j.b.a:
     androidx.cursoradapter.widget.CursorFilter mCursorFilter -> i
     int FLAG_REGISTER_CONTENT_OBSERVER -> l
@@ -13850,28 +13850,28 @@ androidx.cursoradapter.widget.SimpleCursorAdapter$CursorToStringConverter -> a.j
 androidx.cursoradapter.widget.SimpleCursorAdapter$ViewBinder -> a.j.b.d$b:
     boolean setViewValue(android.view.View,android.database.Cursor,int) -> a
 androidx.customview.R -> a.k.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.customview.R$attr -> a.k.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.customview.R$color -> a.k.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.customview.R$dimen -> a.k.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.customview.R$drawable -> a.k.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.customview.R$id -> a.k.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.customview.R$integer -> a.k.a$f:
-    814:814:void <init>() -> <init>
+    388:388:void <init>() -> <init>
 androidx.customview.R$layout -> a.k.a$g:
-    742:742:void <init>() -> <init>
+    476:476:void <init>() -> <init>
 androidx.customview.R$string -> a.k.a$h:
-    679:679:void <init>() -> <init>
+    304:304:void <init>() -> <init>
 androidx.customview.R$style -> a.k.a$i:
-    404:404:void <init>() -> <init>
+    384:384:void <init>() -> <init>
 androidx.customview.R$styleable -> a.k.a$j:
-    607:463:void <clinit>() -> <clinit>
-    884:884:void <init>() -> <init>
+    656:648:void <clinit>() -> <clinit>
+    88:88:void <init>() -> <init>
 androidx.customview.view.AbsSavedState -> a.k.b.a:
     30:88:void <clinit>() -> <clinit>
     29:29:void <init>(androidx.customview.view.AbsSavedState$1) -> <init>
@@ -14091,28 +14091,28 @@ androidx.customview.widget.ViewDragHelper$Callback -> a.k.c.c$c:
     176:176:void onViewPositionChanged(android.view.View,int,int,int,int) -> onViewPositionChanged
     207:207:void onViewReleased(android.view.View,float,float) -> onViewReleased
 androidx.drawerlayout.R -> a.l.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.drawerlayout.R$attr -> a.l.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.drawerlayout.R$color -> a.l.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.drawerlayout.R$dimen -> a.l.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.drawerlayout.R$drawable -> a.l.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.drawerlayout.R$id -> a.l.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.drawerlayout.R$integer -> a.l.a$f:
-    814:814:void <init>() -> <init>
+    388:388:void <init>() -> <init>
 androidx.drawerlayout.R$layout -> a.l.a$g:
-    742:742:void <init>() -> <init>
+    476:476:void <init>() -> <init>
 androidx.drawerlayout.R$string -> a.l.a$h:
-    679:679:void <init>() -> <init>
+    304:304:void <init>() -> <init>
 androidx.drawerlayout.R$style -> a.l.a$i:
-    404:404:void <init>() -> <init>
+    384:384:void <init>() -> <init>
 androidx.drawerlayout.R$styleable -> a.l.a$j:
-    607:463:void <clinit>() -> <clinit>
-    884:884:void <init>() -> <init>
+    656:648:void <clinit>() -> <clinit>
+    88:88:void <init>() -> <init>
 androidx.drawerlayout.widget.DrawerLayout -> androidx.drawerlayout.widget.DrawerLayout:
     boolean ALLOW_EDGE_LOCK -> d0
     boolean mInLayout -> m
@@ -14346,28 +14346,28 @@ androidx.drawerlayout.widget.DrawerLayout$ViewDragCallback$1 -> androidx.drawerl
     2146:2146:void <init>(androidx.drawerlayout.widget.DrawerLayout$ViewDragCallback) -> <init>
     2148:2149:void run() -> run
 androidx.fragment.R -> a.m.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.fragment.R$attr -> a.m.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.fragment.R$color -> a.m.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.fragment.R$dimen -> a.m.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.fragment.R$drawable -> a.m.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.fragment.R$id -> a.m.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.fragment.R$integer -> a.m.a$f:
-    494:494:void <init>() -> <init>
+    790:790:void <init>() -> <init>
 androidx.fragment.R$layout -> a.m.a$g:
-    198:198:void <init>() -> <init>
+    134:134:void <init>() -> <init>
 androidx.fragment.R$string -> a.m.a$h:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.fragment.R$style -> a.m.a$i:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.fragment.R$styleable -> a.m.a$j:
-    205:221:void <clinit>() -> <clinit>
-    562:562:void <init>() -> <init>
+    287:272:void <clinit>() -> <clinit>
+    126:126:void <init>() -> <init>
 androidx.fragment.app.BackStackRecord -> a.m.b.a:
     int mIndex -> M
     boolean mCommitted -> L
@@ -15699,7 +15699,7 @@ androidx.fragment.app.ListFragment$2 -> a.m.b.v$b:
 androidx.fragment.app.SuperNotCalledException -> a.m.b.w:
     23:24:void <init>(java.lang.String) -> <init>
 androidx.interpolator.R -> a.n.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.interpolator.view.animation.FastOutLinearInInterpolator -> a.n.b.a.a:
     float[] VALUES -> c
     34:34:void <clinit>() -> <clinit>
@@ -15963,7 +15963,7 @@ androidx.lifecycle.Observer -> a.o.p:
     void onChanged(java.lang.Object) -> a
 androidx.lifecycle.OnLifecycleEvent -> a.o.q:
 androidx.lifecycle.R -> a.o.r:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.lifecycle.ReflectiveGenericLifecycleObserver -> androidx.lifecycle.ReflectiveGenericLifecycleObserver:
     androidx.lifecycle.ClassesInfoCache$CallbackInfo mInfo -> b
     java.lang.Object mWrapped -> a
@@ -16054,34 +16054,34 @@ androidx.lifecycle.ViewModelStore -> a.o.w:
     54:54:java.util.Set keys() -> b
 androidx.lifecycle.ViewModelStoreOwner -> a.o.x:
 androidx.lifecycle.livedata.R -> a.o.y.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.lifecycle.livedata.core.R -> a.o.y.b.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.lifecycle.viewmodel.R -> a.o.z.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.loader.R -> a.p.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.loader.R$attr -> a.p.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.loader.R$color -> a.p.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.loader.R$dimen -> a.p.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.loader.R$drawable -> a.p.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.loader.R$id -> a.p.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.loader.R$integer -> a.p.a$f:
-    814:814:void <init>() -> <init>
+    388:388:void <init>() -> <init>
 androidx.loader.R$layout -> a.p.a$g:
-    742:742:void <init>() -> <init>
+    476:476:void <init>() -> <init>
 androidx.loader.R$string -> a.p.a$h:
-    679:679:void <init>() -> <init>
+    304:304:void <init>() -> <init>
 androidx.loader.R$style -> a.p.a$i:
-    404:404:void <init>() -> <init>
+    384:384:void <init>() -> <init>
 androidx.loader.R$styleable -> a.p.a$j:
-    607:463:void <clinit>() -> <clinit>
-    884:884:void <init>() -> <init>
+    656:648:void <clinit>() -> <clinit>
+    88:88:void <init>() -> <init>
 androidx.loader.app.LoaderManager -> a.p.b.a:
     40:44:void <init>() -> <init>
     void destroyLoader(int) -> a
@@ -16354,28 +16354,28 @@ androidx.loader.content.ModernAsyncTask$WorkerRunnable -> a.p.c.d$h:
     java.lang.Object[] mParams -> a
     519:520:void <init>() -> <init>
 androidx.recyclerview.R -> a.q.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.recyclerview.R$attr -> a.q.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.recyclerview.R$color -> a.q.a$b:
-    779:779:void <init>() -> <init>
+    578:578:void <init>() -> <init>
 androidx.recyclerview.R$dimen -> a.q.a$c:
-    170:170:void <init>() -> <init>
+    150:150:void <init>() -> <init>
 androidx.recyclerview.R$drawable -> a.q.a$d:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.recyclerview.R$id -> a.q.a$e:
-    544:544:void <init>() -> <init>
+    818:818:void <init>() -> <init>
 androidx.recyclerview.R$integer -> a.q.a$f:
-    131:131:void <init>() -> <init>
+    634:634:void <init>() -> <init>
 androidx.recyclerview.R$layout -> a.q.a$g:
-    443:443:void <init>() -> <init>
+    18:18:void <init>() -> <init>
 androidx.recyclerview.R$string -> a.q.a$h:
-    500:500:void <init>() -> <init>
+    166:166:void <init>() -> <init>
 androidx.recyclerview.R$style -> a.q.a$i:
-    90:90:void <init>() -> <init>
+    405:405:void <init>() -> <init>
 androidx.recyclerview.R$styleable -> a.q.a$j:
-    492:398:void <clinit>() -> <clinit>
-    126:126:void <init>() -> <init>
+    724:217:void <clinit>() -> <clinit>
+    317:317:void <init>() -> <init>
 androidx.recyclerview.widget.AdapterHelper -> a.q.b.a:
     java.lang.Runnable mOnItemProcessedCallback -> e
     int POSITION_TYPE_NEW_OR_LAID_OUT -> j
@@ -19156,7 +19156,7 @@ androidx.recyclerview.widget.ViewInfoStore$ProcessCallback -> a.q.b.h0$b:
     void processDisappeared(androidx.recyclerview.widget.RecyclerView$ViewHolder,androidx.recyclerview.widget.RecyclerView$ItemAnimator$ItemHolderInfo,androidx.recyclerview.widget.RecyclerView$ItemAnimator$ItemHolderInfo) -> b
     void processPersistent(androidx.recyclerview.widget.RecyclerView$ViewHolder,androidx.recyclerview.widget.RecyclerView$ItemAnimator$ItemHolderInfo,androidx.recyclerview.widget.RecyclerView$ItemAnimator$ItemHolderInfo) -> c
 androidx.savedstate.R -> a.r.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.savedstate.Recreator -> androidx.savedstate.Recreator:
     androidx.savedstate.SavedStateRegistryOwner mOwner -> a
     java.lang.String COMPONENT_KEY -> c
@@ -19742,28 +19742,28 @@ androidx.transition.PropertyValuesHolderUtils -> a.s.z:
     44:45:void <init>() -> <init>
     38:41:android.animation.PropertyValuesHolder ofPointF(android.util.Property,android.graphics.Path) -> a
 androidx.transition.R -> a.s.a0:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.transition.R$attr -> a.s.a0$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.transition.R$color -> a.s.a0$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.transition.R$dimen -> a.s.a0$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.transition.R$drawable -> a.s.a0$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.transition.R$id -> a.s.a0$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.transition.R$integer -> a.s.a0$f:
-    173:173:void <init>() -> <init>
+    855:855:void <init>() -> <init>
 androidx.transition.R$layout -> a.s.a0$g:
-    679:679:void <init>() -> <init>
+    304:304:void <init>() -> <init>
 androidx.transition.R$string -> a.s.a0$h:
-    649:649:void <init>() -> <init>
+    612:612:void <init>() -> <init>
 androidx.transition.R$style -> a.s.a0$i:
-    529:529:void <init>() -> <init>
+    565:565:void <init>() -> <init>
 androidx.transition.R$styleable -> a.s.a0$j:
-    606:780:void <clinit>() -> <clinit>
-    277:277:void <init>() -> <init>
+    91:174:void <clinit>() -> <clinit>
+    816:816:void <init>() -> <init>
 androidx.transition.RectEvaluator -> a.s.b0:
     android.graphics.Rect mRect -> a
     39:40:void <init>() -> <init>
@@ -20462,51 +20462,51 @@ androidx.transition.WindowIdApi18 -> a.s.i1:
     40:40:int hashCode() -> hashCode
 androidx.transition.WindowIdImpl -> a.s.j1:
 androidx.vectordrawable.R -> a.t.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.vectordrawable.R$attr -> a.t.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.vectordrawable.R$color -> a.t.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.vectordrawable.R$dimen -> a.t.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.vectordrawable.R$drawable -> a.t.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.vectordrawable.R$id -> a.t.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.vectordrawable.R$integer -> a.t.a$f:
-    494:494:void <init>() -> <init>
+    790:790:void <init>() -> <init>
 androidx.vectordrawable.R$layout -> a.t.a$g:
-    198:198:void <init>() -> <init>
+    134:134:void <init>() -> <init>
 androidx.vectordrawable.R$string -> a.t.a$h:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.vectordrawable.R$style -> a.t.a$i:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.vectordrawable.R$styleable -> a.t.a$j:
-    205:221:void <clinit>() -> <clinit>
-    562:562:void <init>() -> <init>
+    287:272:void <clinit>() -> <clinit>
+    126:126:void <init>() -> <init>
 androidx.vectordrawable.animated.R -> a.t.b.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.vectordrawable.animated.R$attr -> a.t.b.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.vectordrawable.animated.R$color -> a.t.b.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.vectordrawable.animated.R$dimen -> a.t.b.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.vectordrawable.animated.R$drawable -> a.t.b.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.vectordrawable.animated.R$id -> a.t.b.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.vectordrawable.animated.R$integer -> a.t.b.a$f:
-    494:494:void <init>() -> <init>
+    790:790:void <init>() -> <init>
 androidx.vectordrawable.animated.R$layout -> a.t.b.a$g:
-    198:198:void <init>() -> <init>
+    134:134:void <init>() -> <init>
 androidx.vectordrawable.animated.R$string -> a.t.b.a$h:
-    203:203:void <init>() -> <init>
+    871:871:void <init>() -> <init>
 androidx.vectordrawable.animated.R$style -> a.t.b.a$i:
-    417:417:void <init>() -> <init>
+    551:551:void <init>() -> <init>
 androidx.vectordrawable.animated.R$styleable -> a.t.b.a$j:
-    205:221:void <clinit>() -> <clinit>
-    562:562:void <init>() -> <init>
+    287:272:void <clinit>() -> <clinit>
+    126:126:void <init>() -> <init>
 androidx.vectordrawable.graphics.drawable.AndroidResources -> a.t.c.a.a:
     int STYLEABLE_VECTOR_DRAWABLE_GROUP_NAME -> l
     int[] STYLEABLE_ANIMATOR -> R
@@ -21069,7 +21069,7 @@ androidx.versionedparcelable.ParcelUtils -> a.u.c:
     126:133:void putVersionedParcelableList(android.os.Bundle,java.lang.String,java.util.List) -> a
     144:157:java.util.List getVersionedParcelableList(android.os.Bundle,java.lang.String) -> b
 androidx.versionedparcelable.R -> a.u.d:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.versionedparcelable.VersionedParcel -> a.u.e:
     int TYPE_PARCELABLE -> n
     int TYPE_SERIALIZABLE -> o
@@ -21333,28 +21333,28 @@ androidx.versionedparcelable.VersionedParcelStream$FieldBuffer -> a.u.g$b:
 androidx.versionedparcelable.VersionedParcelable -> a.u.h:
 androidx.versionedparcelable.VersionedParcelize -> a.u.i:
 androidx.viewpager.R -> a.v.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.viewpager.R$attr -> a.v.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.viewpager.R$color -> a.v.a$b:
-    402:402:void <init>() -> <init>
+    471:471:void <init>() -> <init>
 androidx.viewpager.R$dimen -> a.v.a$c:
-    12:12:void <init>() -> <init>
+    750:750:void <init>() -> <init>
 androidx.viewpager.R$drawable -> a.v.a$d:
-    624:624:void <init>() -> <init>
+    806:806:void <init>() -> <init>
 androidx.viewpager.R$id -> a.v.a$e:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.viewpager.R$integer -> a.v.a$f:
-    814:814:void <init>() -> <init>
+    388:388:void <init>() -> <init>
 androidx.viewpager.R$layout -> a.v.a$g:
-    742:742:void <init>() -> <init>
+    476:476:void <init>() -> <init>
 androidx.viewpager.R$string -> a.v.a$h:
-    679:679:void <init>() -> <init>
+    304:304:void <init>() -> <init>
 androidx.viewpager.R$style -> a.v.a$i:
-    404:404:void <init>() -> <init>
+    384:384:void <init>() -> <init>
 androidx.viewpager.R$styleable -> a.v.a$j:
-    607:463:void <clinit>() -> <clinit>
-    884:884:void <init>() -> <init>
+    656:648:void <clinit>() -> <clinit>
+    88:88:void <init>() -> <init>
 androidx.viewpager.widget.PagerAdapter -> a.v.b.a:
     int POSITION_NONE -> d
     android.database.DataSetObservable mObservable -> a
@@ -21733,28 +21733,28 @@ androidx.viewpager.widget.ViewPager$ViewPositionComparator -> a.v.b.d$o:
     3160:3165:int compare(android.view.View,android.view.View) -> a
     3157:3157:int compare(java.lang.Object,java.lang.Object) -> compare
 androidx.viewpager2.R -> a.w.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 androidx.viewpager2.R$attr -> a.w.a$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 androidx.viewpager2.R$color -> a.w.a$b:
-    779:779:void <init>() -> <init>
+    578:578:void <init>() -> <init>
 androidx.viewpager2.R$dimen -> a.w.a$c:
-    170:170:void <init>() -> <init>
+    150:150:void <init>() -> <init>
 androidx.viewpager2.R$drawable -> a.w.a$d:
-    14:14:void <init>() -> <init>
+    785:785:void <init>() -> <init>
 androidx.viewpager2.R$id -> a.w.a$e:
-    544:544:void <init>() -> <init>
+    818:818:void <init>() -> <init>
 androidx.viewpager2.R$integer -> a.w.a$f:
-    131:131:void <init>() -> <init>
+    634:634:void <init>() -> <init>
 androidx.viewpager2.R$layout -> a.w.a$g:
-    443:443:void <init>() -> <init>
+    18:18:void <init>() -> <init>
 androidx.viewpager2.R$string -> a.w.a$h:
-    500:500:void <init>() -> <init>
+    166:166:void <init>() -> <init>
 androidx.viewpager2.R$style -> a.w.a$i:
-    90:90:void <init>() -> <init>
+    405:405:void <init>() -> <init>
 androidx.viewpager2.R$styleable -> a.w.a$j:
-    492:796:void <clinit>() -> <clinit>
-    126:126:void <init>() -> <init>
+    724:513:void <clinit>() -> <clinit>
+    317:317:void <init>() -> <init>
 androidx.viewpager2.adapter.FragmentStateAdapter -> androidx.viewpager2.adapter.FragmentStateAdapter:
     androidx.fragment.app.FragmentManager mFragmentManager -> c
     long GRACE_WINDOW_TIME_MS -> l
@@ -22202,631 +22202,628 @@ androidx.viewpager2.widget.ViewPager2$SmoothScrollToPosition -> a.w.c.h$r:
     1062:1065:void <init>(int,androidx.recyclerview.widget.RecyclerView) -> <init>
     1069:1070:void run() -> run
 com.app.uninstaller.appuninstaller212.MyApplication -> com.app.uninstaller.appuninstaller212.MyApplication:
-    734:734:void <init>() -> <init>
-    54:22:void onCreate() -> onCreate
+    164:164:void <init>() -> <init>
+    479:427:void onCreate() -> onCreate
 com.app.uninstaller.appuninstaller212.NotificationListener -> com.app.uninstaller.appuninstaller212.NotificationListener:
-    java.lang.String D -> a
-    695:695:void <init>() -> <init>
-    795:462:void onReceive(android.content.Context,android.content.Intent) -> onReceive
+    java.lang.String j -> a
+    238:238:void <init>() -> <init>
+    712:639:void onReceive(android.content.Context,android.content.Intent) -> onReceive
 com.app.uninstaller.appuninstaller212.R -> b.a.a.a.a:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$anim -> b.a.a.a.a$a:
-    54:54:void <init>() -> <init>
+    479:479:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$animator -> b.a.a.a.a$b:
-    789:789:void <init>() -> <init>
+    807:807:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$attr -> b.a.a.a.a$c:
-    255:255:void <init>() -> <init>
+    561:561:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$bool -> b.a.a.a.a$d:
-    19990:19990:void <init>() -> <init>
+    4974:4974:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$color -> b.a.a.a.a$e:
-    25368:25368:void <init>() -> <init>
+    19435:19435:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$dimen -> b.a.a.a.a$f:
-    11910:11910:void <init>() -> <init>
+    24718:24718:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$drawable -> b.a.a.a.a$g:
-    4867:4867:void <init>() -> <init>
+    21742:21742:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$id -> b.a.a.a.a$h:
-    12364:12364:void <init>() -> <init>
+    20198:20198:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$integer -> b.a.a.a.a$i:
-    22175:22175:void <init>() -> <init>
+    17184:17184:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$interpolator -> b.a.a.a.a$j:
-    6576:6576:void <init>() -> <init>
+    19858:19858:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$layout -> b.a.a.a.a$k:
-    15144:15144:void <init>() -> <init>
+    23412:23412:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$menu -> b.a.a.a.a$l:
-    25111:25111:void <init>() -> <init>
+    18402:18402:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$mipmap -> b.a.a.a.a$m:
-    13884:13884:void <init>() -> <init>
+    7768:7768:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$plurals -> b.a.a.a.a$n:
-    16296:16296:void <init>() -> <init>
+    17040:17040:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$string -> b.a.a.a.a$o:
-    9029:9029:void <init>() -> <init>
+    10295:10295:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$style -> b.a.a.a.a$p:
-    18288:18288:void <init>() -> <init>
+    17835:17835:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$styleable -> b.a.a.a.a$q:
-    15826:5529:void <clinit>() -> <clinit>
-    5406:5406:void <init>() -> <init>
+    20608:10228:void <clinit>() -> <clinit>
+    25446:25446:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.R$xml -> b.a.a.a.a$r:
-    6789:6789:void <init>() -> <init>
+    17050:17050:void <init>() -> <init>
 com.app.uninstaller.appuninstaller212.RepeatNotification -> com.app.uninstaller.appuninstaller212.RepeatNotification:
-    java.lang.String D -> a
-    166:166:void <init>() -> <init>
-    304:798:void onReceive(android.content.Context,android.content.Intent) -> onReceive
-com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory:
-    com.app.uninstaller.appuninstaller212.x.s G -> K
-    androidx.recyclerview.widget.RecyclerView B -> H
-    android.app.Dialog H -> J
-    android.widget.ImageView F -> M
-    android.widget.TextView m -> G
-    android.widget.TextView k -> F
-    com.app.uninstaller.appuninstaller212.c.l C -> I
-    android.widget.ImageView D -> N
-    712:712:void <init>() -> <init>
-    429:471:void onClick(android.view.View) -> onClick
-    368:376:void onCreate(android.os.Bundle) -> onCreate
-com.app.uninstaller.appuninstaller212.activity.ActivityMain -> com.app.uninstaller.appuninstaller212.activity.ActivityMain:
-    android.widget.RadioGroup I -> d0
-    android.widget.ImageView A -> y0
-    android.widget.TextView q -> Q
-    android.widget.ImageView u -> s0
-    java.lang.String k -> C0
-    android.widget.TextView g -> Y
-    android.widget.LinearLayout s -> F
-    android.widget.TextView V -> t0
-    android.app.PendingIntent h -> i0
-    android.content.SharedPreferences$Editor Z -> U
-    android.widget.LinearLayout Q -> R
-    java.lang.String f -> x0
-    android.widget.LinearLayout M -> e0
-    androidx.drawerlayout.widget.DrawerLayout S -> T
-    java.lang.String W -> r0
-    android.os.Handler v -> N
-    android.widget.TextView w -> I
-    androidx.fragment.app.FragmentManager Y -> M
-    com.app.uninstaller.appuninstaller212.v.t y -> S
-    android.widget.EditText a -> A0
-    android.widget.TextView H -> m0
-    int t -> v0
-    java.lang.Thread U -> K
-    android.widget.TextView i -> g0
-    android.widget.ImageView e -> z0
-    android.widget.TextView z -> O
-    com.app.uninstaller.appuninstaller212.c.t m -> j0
-    android.widget.FrameLayout D -> p0
-    android.widget.TextView P -> u0
-    android.widget.RadioGroup F -> o0
-    java.lang.Runnable G -> n0
-    android.widget.ImageView X -> L
-    android.widget.TextView R -> G
-    android.app.Dialog E -> c0
-    java.lang.String o -> q0
-    android.widget.LinearLayout d -> X
-    com.google.android.material.navigation.NavigationView N -> J
-    android.app.Dialog O -> V
-    android.widget.TextView j -> b0
-    android.widget.TextView p -> P
-    android.content.SharedPreferences c -> Z
-    android.app.Dialog C -> l0
-    int n -> w0
-    android.widget.ProgressBar B -> k0
-    android.widget.FrameLayout J -> a0
-    android.widget.ImageView b -> B0
-    android.widget.TextView l -> h0
-    android.widget.TextView T -> H
-    android.widget.LinearLayout r -> W
-    android.widget.TextView K -> f0
-    255:471:void <clinit>() -> <clinit>
-    413:266:void <init>() -> <init>
-    413:413:void h(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> a
-    680:172:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
-    345:825:void onClick(android.view.View) -> onClick
-    797:607:void onCreate(android.os.Bundle) -> onCreate
-    480:406:boolean onNavigationItemSelected(android.view.MenuItem) -> onNavigationItemSelected
-    646:494:void onResume() -> onResume
-    13:468:void g() -> q
-    377:431:void h() -> r
+    java.lang.String j -> a
+    124:124:void <init>() -> <init>
+    322:262:void onReceive(android.content.Context,android.content.Intent) -> onReceive
 com.app.uninstaller.appuninstaller212.activity.ActivityAppSetting -> com.app.uninstaller.appuninstaller212.activity.ActivityAppSetting:
-    int h -> K
-    android.widget.TextView L -> R
-    java.lang.String C -> O
-    com.app.uninstaller.appuninstaller212.c.t G -> Q
-    java.lang.String H -> P
-    android.widget.LinearLayout a -> F
-    java.lang.String F -> S
-    android.widget.ImageView K -> G
-    android.widget.ImageView m -> M
-    androidx.appcompat.widget.Toolbar D -> T
-    android.widget.ImageView l -> J
-    android.widget.ImageView B -> N
-    android.widget.TextView b -> H
-    android.content.Intent i -> I
-    android.widget.TextView k -> L
-    695:695:void <init>() -> <init>
-    436:74:void onClick(android.view.View) -> onClick
-    91:214:void onCreate(android.os.Bundle) -> onCreate
-    471:259:void h() -> q
-com.app.uninstaller.appuninstaller212.activity.e -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory$a:
-    com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory D -> b
-    541:541:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory) -> <init>
-    3:587:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.activity.i -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$a:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> b
-    791:791:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    350:69:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.activity.j -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$b:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> b
-    266:266:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    581:256:void run() -> run
-com.app.uninstaller.appuninstaller212.activity.l -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$c:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> a
-    864:864:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    147:757:void onCheckedChanged(android.widget.RadioGroup,int) -> onCheckedChanged
-com.app.uninstaller.appuninstaller212.activity.m -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$d:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> a
-    303:303:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    193:641:void onCheckedChanged(android.widget.RadioGroup,int) -> onCheckedChanged
-com.app.uninstaller.appuninstaller212.activity.q -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory$b:
-    com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory D -> b
-    515:515:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory) -> <init>
-    14:257:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.activity.t -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$e:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> b
-    165:165:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    81:338:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.activity.y -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$f:
-    com.app.uninstaller.appuninstaller212.activity.ActivityMain D -> b
-    198:198:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
-    869:176:void run() -> run
+    android.widget.TextView e -> N
+    java.lang.String f -> H
+    int i -> I
+    java.lang.String a -> O
+    android.widget.LinearLayout g -> F
+    java.lang.String L -> S
+    com.app.uninstaller.appuninstaller212.o.y B -> G
+    androidx.appcompat.widget.Toolbar k -> J
+    android.widget.ImageView G -> K
+    android.widget.ImageView E -> Q
+    android.content.Intent A -> P
+    android.widget.ImageView j -> T
+    android.widget.TextView h -> M
+    android.widget.ImageView M -> R
+    android.widget.TextView K -> L
+    238:238:void <init>() -> <init>
+    691:879:void onClick(android.view.View) -> onClick
+    158:296:void onCreate(android.os.Bundle) -> onCreate
+    228:143:void l() -> q
+com.app.uninstaller.appuninstaller212.activity.ActivityMain -> com.app.uninstaller.appuninstaller212.activity.ActivityMain:
+    android.widget.ImageView b -> y0
+    int A -> B0
+    android.widget.LinearLayout L -> o0
+    android.widget.FrameLayout f -> g0
+    android.widget.ImageView y -> s0
+    java.lang.String M -> C0
+    android.content.SharedPreferences u -> S
+    java.lang.Thread h -> k0
+    android.widget.RadioGroup F -> Y
+    android.content.SharedPreferences$Editor c -> d0
+    android.widget.ImageView O -> J
+    java.lang.String P -> r0
+    android.widget.LinearLayout J -> Z
+    android.os.Handler q -> N
+    android.widget.TextView R -> I
+    android.app.Dialog Z -> T
+    android.widget.RadioGroup T -> M
+    android.widget.FrameLayout Q -> G
+    android.widget.TextView C -> a0
+    android.widget.TextView x -> V
+    int U -> t0
+    android.widget.TextView a -> m0
+    android.widget.EditText z -> v0
+    android.widget.ImageView K -> A0
+    android.widget.ProgressBar r -> U
+    android.app.PendingIntent v -> R
+    android.widget.TextView k -> i0
+    android.widget.TextView V -> O
+    android.widget.ImageView D -> x0
+    com.app.uninstaller.appuninstaller212.q.y d -> X
+    android.widget.LinearLayout E -> n0
+    android.widget.TextView X -> w0
+    android.widget.TextView s -> u0
+    com.google.android.material.navigation.NavigationView g -> e0
+    com.app.uninstaller.appuninstaller212.o.y i -> h0
+    android.widget.LinearLayout p -> P
+    android.app.Dialog m -> c0
+    java.lang.String w -> q0
+    java.lang.Runnable l -> b0
+    androidx.fragment.app.FragmentManager Y -> F
+    java.lang.String I -> z0
+    android.widget.TextView j -> p0
+    androidx.drawerlayout.widget.DrawerLayout H -> W
+    android.widget.TextView e -> l0
+    android.widget.LinearLayout o -> K
+    android.widget.TextView G -> j0
+    android.widget.TextView t -> H
+    android.widget.TextView B -> f0
+    android.app.Dialog n -> Q
+    android.widget.TextView N -> L
+    262:561:void <clinit>() -> <clinit>
+    150:604:void <init>() -> <init>
+    150:150:void l(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> a
+    462:204:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    644:189:void onClick(android.view.View) -> onClick
+    70:30:void onCreate(android.os.Bundle) -> onCreate
+    650:378:boolean onNavigationItemSelected(android.view.MenuItem) -> onNavigationItemSelected
+    102:543:void onResume() -> onResume
+    387:845:void k() -> q
+    673:657:void l() -> r
+com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory:
+    com.app.uninstaller.appuninstaller212.o.i a -> I
+    com.app.uninstaller.appuninstaller212.u.e e -> H
+    android.widget.ImageView h -> G
+    android.widget.ImageView L -> M
+    java.util.List A -> J
+    android.app.Dialog j -> N
+    android.widget.TextView K -> F
+    android.widget.TextView E -> K
+    androidx.recyclerview.widget.RecyclerView M -> L
+    714:714:void <init>() -> <init>
+    6:228:void onClick(android.view.View) -> onClick
+    660:402:void onCreate(android.os.Bundle) -> onCreate
+com.app.uninstaller.appuninstaller212.activity.c -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$a:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> b
+    707:707:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    314:52:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.activity.g -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$b:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> b
+    91:91:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    439:94:void run() -> run
+com.app.uninstaller.appuninstaller212.activity.i -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory$a:
+    com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory j -> b
+    658:658:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory) -> <init>
+    684:212:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.activity.j -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$c:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> b
+    604:604:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    317:433:void run() -> run
+com.app.uninstaller.appuninstaller212.activity.w -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$d:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> a
+    345:345:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    274:64:void onCheckedChanged(android.widget.RadioGroup,int) -> onCheckedChanged
+com.app.uninstaller.appuninstaller212.activity.x -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$e:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> b
+    735:735:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    577:319:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.activity.y -> com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory$b:
+    com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory j -> b
+    22:22:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityUninstallHistory) -> <init>
+    785:3:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.activity.z -> com.app.uninstaller.appuninstaller212.activity.ActivityMain$f:
+    com.app.uninstaller.appuninstaller212.activity.ActivityMain j -> a
+    235:235:void <init>(com.app.uninstaller.appuninstaller212.activity.ActivityMain) -> <init>
+    511:553:void onCheckedChanged(android.widget.RadioGroup,int) -> onCheckedChanged
 com.app.uninstaller.appuninstaller212.ads.ActivityMyBase -> com.app.uninstaller.appuninstaller212.ads.ActivityMyBase:
-    java.lang.Runnable L -> C
-    android.os.Handler H -> A
-    boolean D -> E
-    boolean G -> B
-    boolean F -> D
-    756:151:void <init>() -> <init>
-    756:756:boolean h(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase,boolean) -> a
-    360:481:void onBackPressed() -> onBackPressed
-    236:768:void onCreate(android.os.Bundle) -> onCreate
-    542:725:void setContentView(int) -> setContentView
+    java.lang.Runnable j -> E
+    android.os.Handler M -> C
+    boolean E -> B
+    boolean L -> D
+    447:574:void <init>() -> <init>
+    447:447:boolean l(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase,boolean) -> a
+    528:227:void onBackPressed() -> onBackPressed
+    455:233:void onCreate(android.os.Bundle) -> onCreate
+    614:222:void setContentView(int) -> setContentView
 com.app.uninstaller.appuninstaller212.ads.MainActivity -> com.app.uninstaller.appuninstaller212.ads.MainActivity:
-    734:734:void <init>() -> <init>
-    54:142:void onCreate(android.os.Bundle) -> onCreate
-    326:795:void onDestroy() -> onDestroy
+    164:164:void <init>() -> <init>
+    479:260:void onCreate(android.os.Bundle) -> onCreate
+    478:712:void onDestroy() -> onDestroy
 com.app.uninstaller.appuninstaller212.ads.i -> b.a.a.a.b.a:
-    734:734:void <init>() -> <init>
-    301:236:boolean h(android.content.Context) -> a
-com.app.uninstaller.appuninstaller212.ads.l -> com.app.uninstaller.appuninstaller212.ads.ActivityMyBase$a:
-    com.app.uninstaller.appuninstaller212.ads.ActivityMyBase D -> b
-    752:752:void <init>(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase) -> <init>
-    770:259:void run() -> run
-com.app.uninstaller.appuninstaller212.ads.m -> com.app.uninstaller.appuninstaller212.ads.ActivityMyBase$b:
-    com.app.uninstaller.appuninstaller212.ads.ActivityMyBase D -> b
-    364:364:void <init>(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase) -> <init>
-    789:255:void run() -> run
-com.app.uninstaller.appuninstaller212.ads.t -> b.a.a.a.b.b:
-    void h(java.lang.Object,int) -> a
-com.app.uninstaller.appuninstaller212.c.l -> b.a.a.a.c.a:
-    android.database.sqlite.SQLiteDatabase D -> a
-    674:91:void <init>(android.content.Context) -> <init>
-    java.lang.String h(java.lang.String) -> a
-    259:70:byte[] h(android.graphics.drawable.Drawable) -> a
-    413:376:boolean h(java.lang.String,int) -> a
-    429:797:java.util.List h() -> a
-    462:552:boolean h(int) -> a
-    711:789:boolean h(com.app.uninstaller.appuninstaller212.y.l) -> a
-    752:25:boolean h() -> a
-com.app.uninstaller.appuninstaller212.c.t -> b.a.a.a.c.b:
-    android.database.sqlite.SQLiteDatabase D -> a
-    658:142:void <init>(android.content.Context) -> <init>
-    257:752:int h() -> a
-    304:725:boolean h(com.app.uninstaller.appuninstaller212.y.t) -> a
-    314:289:boolean g(java.lang.String) -> a
-    574:592:com.app.uninstaller.appuninstaller212.y.t h() -> a
-    471:541:boolean h(java.lang.String) -> b
-    12:691:boolean i(java.lang.String) -> c
-com.app.uninstaller.appuninstaller212.l -> b.a.a.a.d:
-    boolean D -> f
-    java.lang.String C -> a
-    int F -> e
-    java.lang.String G -> c
-    java.lang.String H -> b
-    java.lang.String L -> d
-    734:734:void <clinit>() -> <clinit>
-    519:519:void <init>() -> <init>
-com.app.uninstaller.appuninstaller212.t -> b.a.a.a.e:
-    void h(int,double,java.util.List) -> a
-com.app.uninstaller.appuninstaller212.u.a -> b.a.a.a.f.a$a:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    568:568:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    260:481:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    568:568:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.aa -> b.a.a.a.f.a$b:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    651:651:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    592:592:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    651:651:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.b -> b.a.a.a.f.a$c:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    168:168:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    277:277:void afterTextChanged(android.text.Editable) -> afterTextChanged
-    404:404:void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
-    549:646:void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
-com.app.uninstaller.appuninstaller212.u.c -> b.a.a.a.f.a$d:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    587:587:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    261:261:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    587:587:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.d -> b.a.a.a.f.b:
-    android.content.SharedPreferences m -> d
-    androidx.recyclerview.widget.RecyclerView L -> i
-    java.util.List B -> e
-    com.app.uninstaller.appuninstaller212.x.g F -> j
-    int D -> k
-    com.app.uninstaller.appuninstaller212.c.l G -> h
-    boolean C -> f
-    java.util.List H -> g
+    164:164:void <init>() -> <init>
+    668:455:boolean l(android.content.Context) -> a
+com.app.uninstaller.appuninstaller212.ads.w -> com.app.uninstaller.appuninstaller212.ads.ActivityMyBase$a:
+    com.app.uninstaller.appuninstaller212.ads.ActivityMyBase j -> b
+    793:793:void <init>(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase) -> <init>
+    807:561:void run() -> run
+com.app.uninstaller.appuninstaller212.ads.x -> com.app.uninstaller.appuninstaller212.ads.ActivityMyBase$b:
+    com.app.uninstaller.appuninstaller212.ads.ActivityMyBase j -> b
+    692:692:void <init>(com.app.uninstaller.appuninstaller212.ads.ActivityMyBase) -> <init>
+    290:143:void run() -> run
+com.app.uninstaller.appuninstaller212.ads.y -> b.a.a.a.b.b:
+    void l(java.lang.Object,int) -> a
+com.app.uninstaller.appuninstaller212.i -> b.a.a.a.c:
+    java.lang.String j -> f
+    int M -> d
+    java.lang.String A -> b
+    boolean E -> c
+    java.lang.String L -> e
+    164:164:void <clinit>() -> <clinit>
+    670:670:void <init>() -> <init>
+com.app.uninstaller.appuninstaller212.k.i -> b.a.a.a.d.a:
+    221:221:void <init>() -> <init>
+    233:503:java.lang.String l() -> a
+    238:533:java.util.Date k(java.lang.String) -> a
+    222:863:java.util.Date l(java.lang.String) -> b
+com.app.uninstaller.appuninstaller212.k.x -> b.a.a.a.d.b:
+    714:714:void <init>() -> <init>
+    java.lang.String l(java.lang.String) -> a
+    102:790:java.lang.String l(java.util.Date) -> a
+    174:791:java.util.Date l(java.util.Date[]) -> a
+    199:199:java.util.Date A(android.content.pm.PackageManager,java.lang.String) -> a
+    406:656:float l(android.content.Context,java.lang.String) -> a
+    478:807:java.util.ArrayList l(boolean,android.content.Context) -> a
+    804:384:java.util.ArrayList k(android.content.Context) -> a
+    36:648:java.util.Date k(android.content.pm.PackageManager,java.lang.String) -> b
+    150:216:java.util.ArrayList l(android.content.Context) -> b
+    370:634:java.util.Date l(android.content.pm.PackageManager,java.lang.String) -> c
+com.app.uninstaller.appuninstaller212.k.y -> b.a.a.a.d.c:
+    447:447:void <init>() -> <init>
+    java.lang.String l(java.lang.String) -> a
+    221:487:float l() -> a
+    238:848:long l() -> a
+    533:296:java.lang.String l(float) -> a
+com.app.uninstaller.appuninstaller212.o.i -> b.a.a.a.e.a:
+    android.database.sqlite.SQLiteDatabase j -> a
+    313:158:void <init>(android.content.Context) -> <init>
+    java.lang.String l(java.lang.String) -> a
+    6:675:java.util.List l() -> a
+    127:807:boolean l(com.app.uninstaller.appuninstaller212.x.i) -> a
+    143:335:byte[] l(android.graphics.drawable.Drawable) -> a
+    444:402:boolean l(java.lang.String,int) -> a
+    639:118:boolean l(int) -> a
+    692:255:boolean l() -> a
+com.app.uninstaller.appuninstaller212.o.y -> b.a.a.a.e.b:
+    android.database.sqlite.SQLiteDatabase j -> a
+    487:260:void <init>(android.content.Context) -> <init>
+    3:692:int l() -> a
+    186:798:com.app.uninstaller.appuninstaller212.x.y l() -> a
+    228:658:boolean A(java.lang.String) -> a
+    322:222:boolean l(com.app.uninstaller.appuninstaller212.x.y) -> a
+    750:376:boolean k(java.lang.String) -> b
+    330:567:boolean l(java.lang.String) -> c
+com.app.uninstaller.appuninstaller212.q.y -> b.a.a.a.f.a:
+    java.lang.String e -> g
+    java.lang.String h -> f
+    java.lang.String A -> i
+    java.lang.String a -> h
+    java.lang.String M -> k
+    java.lang.String E -> j
+    java.lang.String j -> m
+    java.lang.String L -> l
     java.lang.String k -> c
-    java.lang.String h -> b
-    691:376:void <init>() -> <init>
-    305:352:void h(int,double,java.util.List) -> a
-    691:691:void h(com.app.uninstaller.appuninstaller212.u.d) -> a
-    875:385:java.lang.String h(java.lang.String) -> a
-    203:164:void h() -> b
-    530:350:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
-    798:749:android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle) -> onCreateView
-    541:743:void onResume() -> onResume
-com.app.uninstaller.appuninstaller212.u.e -> b.a.a.a.f.b$a:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    14:14:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    651:450:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    14:14:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.g -> b.a.a.a.f.a$e:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    742:742:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    403:403:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    742:742:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.i -> b.a.a.a.f.b$b:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    479:479:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    173:173:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    479:479:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.j -> b.a.a.a.f.b$c:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    583:583:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    286:848:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    583:583:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.l -> b.a.a.a.f.b$d:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    71:71:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    496:496:void afterTextChanged(android.text.Editable) -> afterTextChanged
-    208:208:void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
-    191:82:void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
-com.app.uninstaller.appuninstaller212.u.m -> b.a.a.a.f.b$e:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    265:265:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    168:168:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    265:265:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.o -> b.a.a.a.f.a$f:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    471:471:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    749:360:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    471:471:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.q -> b.a.a.a.f.b$f:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    262:262:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    25:25:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    262:262:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.s -> b.a.a.a.f.a:
-    java.util.List B -> b
-    android.content.SharedPreferences F -> g
-    java.lang.String D -> h
-    java.util.List C -> c
-    androidx.recyclerview.widget.RecyclerView H -> d
-    com.app.uninstaller.appuninstaller212.x.g L -> f
-    java.lang.String G -> e
-    725:364:void <init>() -> <init>
-    203:372:java.lang.String h(java.lang.String) -> a
-    725:725:void h(com.app.uninstaller.appuninstaller212.u.s) -> a
-    743:743:void h(int,double,java.util.List) -> a
-    824:869:void h() -> b
-    691:564:android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle) -> onCreateView
-    376:606:void onResume() -> onResume
-com.app.uninstaller.appuninstaller212.u.t -> b.a.a.a.f.b$g:
-    com.app.uninstaller.appuninstaller212.c.l D -> d
-    com.app.uninstaller.appuninstaller212.u.d L -> b
-    java.util.List F -> c
-    370:370:void <init>(com.app.uninstaller.appuninstaller212.u.d,java.util.List,com.app.uninstaller.appuninstaller212.c.l) -> <init>
-    780:353:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.u.w -> b.a.a.a.f.a$g:
-    com.app.uninstaller.appuninstaller212.u.s D -> b
-    832:832:void <init>(com.app.uninstaller.appuninstaller212.u.s) -> <init>
-    814:814:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    832:832:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.u.y -> b.a.a.a.f.b$h:
-    com.app.uninstaller.appuninstaller212.u.d D -> b
-    770:770:void <init>(com.app.uninstaller.appuninstaller212.u.d) -> <init>
-    330:330:int h(com.app.uninstaller.appuninstaller212.y.l,com.app.uninstaller.appuninstaller212.y.l) -> a
-    770:770:int compare(java.lang.Object,java.lang.Object) -> compare
-com.app.uninstaller.appuninstaller212.v.t -> b.a.a.a.g.a:
-    java.lang.String B -> g
-    java.lang.String m -> f
-    java.lang.String H -> i
-    java.lang.String C -> h
-    java.lang.String L -> k
-    java.lang.String G -> j
-    java.lang.String D -> m
-    java.lang.String F -> l
-    java.lang.String l -> c
     java.lang.String i -> b
-    java.lang.String k -> e
-    java.lang.String h -> d
-    795:291:void <init>(android.content.Context) -> <init>
-    181:181:android.database.sqlite.SQLiteDatabase h() -> a
-    725:118:void onCreate(android.database.sqlite.SQLiteDatabase) -> onCreate
-    564:564:void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int) -> onUpgrade
-com.app.uninstaller.appuninstaller212.x.a -> b.a.a.a.h.a$a$a:
-    com.app.uninstaller.appuninstaller212.x.c D -> b
-    168:168:void <init>(com.app.uninstaller.appuninstaller212.x.c) -> <init>
-    404:191:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.aa -> b.a.a.a.h.a$a$b:
-    com.app.uninstaller.appuninstaller212.x.c D -> b
-    476:476:void <init>(com.app.uninstaller.appuninstaller212.x.c) -> <init>
-    265:679:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.b -> b.a.a.a.h.b$a:
-    com.app.uninstaller.appuninstaller212.y.l D -> d
-    float L -> b
-    com.app.uninstaller.appuninstaller212.x.g F -> c
-    436:436:void <init>(com.app.uninstaller.appuninstaller212.x.g,com.app.uninstaller.appuninstaller212.y.l,float) -> <init>
-    70:479:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.c -> b.a.a.a.h.a$a:
-    com.app.uninstaller.appuninstaller212.y.l F -> b
-    com.app.uninstaller.appuninstaller212.x.s D -> c
-    848:848:void <init>(com.app.uninstaller.appuninstaller212.x.s,com.app.uninstaller.appuninstaller212.y.l) -> <init>
-    342:390:boolean onLongClick(android.view.View) -> onLongClick
-com.app.uninstaller.appuninstaller212.x.d -> b.a.a.a.h.b$b:
-    com.app.uninstaller.appuninstaller212.y.l G -> b
-    com.app.uninstaller.appuninstaller212.x.t D -> e
-    com.app.uninstaller.appuninstaller212.x.g F -> d
-    java.lang.String L -> c
-    646:646:void <init>(com.app.uninstaller.appuninstaller212.x.g,com.app.uninstaller.appuninstaller212.x.t,com.app.uninstaller.appuninstaller212.y.l,java.lang.String) -> <init>
-    277:569:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.e -> b.a.a.a.h.b$b$a:
-    com.app.uninstaller.appuninstaller212.x.d D -> a
-    813:813:void <init>(com.app.uninstaller.appuninstaller212.x.d) -> <init>
-    131:131:void onCheckedChanged(android.widget.CompoundButton,boolean) -> onCheckedChanged
-com.app.uninstaller.appuninstaller212.x.g -> b.a.a.a.h.b:
-    android.widget.TextView h -> o
-    android.widget.ImageView D -> x
-    android.widget.TextView l -> n
-    android.widget.TextView C -> s
-    int K -> k
-    android.widget.TextView B -> r
-    int e -> h
-    android.widget.TextView G -> u
-    boolean L -> v
-    int J -> b
-    android.widget.ImageView A -> e
-    double F -> w
-    android.content.Context k -> p
-    com.app.uninstaller.appuninstaller212.t M -> i
-    android.widget.TextView j -> c
-    java.util.List E -> f
-    com.app.uninstaller.appuninstaller212.c.l H -> t
-    android.app.Dialog b -> l
-    android.widget.TextView f -> d
-    java.util.List I -> g
-    android.widget.TextView a -> j
-    android.app.Dialog m -> q
-    android.widget.TextView i -> m
-    413:119:void <init>(android.content.Context,int,java.util.List,boolean,com.app.uninstaller.appuninstaller212.t) -> <init>
-    257:101:void h(com.app.uninstaller.appuninstaller212.x.t,int) -> a
-    368:368:android.widget.TextView G(com.app.uninstaller.appuninstaller212.x.g) -> a
-    368:368:android.widget.TextView G(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> a
-    368:368:android.app.Dialog g(com.app.uninstaller.appuninstaller212.x.g,android.app.Dialog) -> a
-    368:368:android.widget.ImageView g(com.app.uninstaller.appuninstaller212.x.g,android.widget.ImageView) -> a
-    368:368:com.app.uninstaller.appuninstaller212.c.l h(com.app.uninstaller.appuninstaller212.x.g,com.app.uninstaller.appuninstaller212.c.l) -> a
-    651:797:com.app.uninstaller.appuninstaller212.x.t h(android.view.ViewGroup,int) -> a
-    368:368:android.widget.TextView H(com.app.uninstaller.appuninstaller212.x.g) -> b
-    368:368:android.widget.TextView H(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> b
-    368:368:android.app.Dialog h(com.app.uninstaller.appuninstaller212.x.g,android.app.Dialog) -> b
-    368:368:android.widget.ImageView h(com.app.uninstaller.appuninstaller212.x.g,android.widget.ImageView) -> b
-    368:368:android.widget.TextView a(com.app.uninstaller.appuninstaller212.x.g) -> c
-    368:368:android.widget.TextView a(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> c
-    368:368:android.widget.TextView d(com.app.uninstaller.appuninstaller212.x.g) -> d
-    368:368:android.widget.TextView d(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> d
-    368:368:android.app.Dialog g(com.app.uninstaller.appuninstaller212.x.g) -> e
-    368:368:android.widget.ImageView g(com.app.uninstaller.appuninstaller212.x.g) -> e
-    368:368:android.widget.TextView g(com.app.uninstaller.appuninstaller212.x.g) -> e
-    368:368:android.widget.TextView g(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> e
-    368:368:int h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.app.Dialog h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.content.Context h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.widget.ImageView h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.widget.TextView h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.widget.TextView h(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> f
-    368:368:com.app.uninstaller.appuninstaller212.c.l h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:boolean h(com.app.uninstaller.appuninstaller212.x.g) -> f
-    368:368:android.widget.TextView i(com.app.uninstaller.appuninstaller212.x.g) -> g
-    368:368:android.widget.TextView i(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> g
-    253:253:int getItemCount() -> getItemCount
-    368:368:android.widget.TextView k(com.app.uninstaller.appuninstaller212.x.g) -> h
-    368:368:android.widget.TextView k(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> h
-    368:368:android.widget.TextView m(com.app.uninstaller.appuninstaller212.x.g) -> i
-    368:368:android.widget.TextView m(com.app.uninstaller.appuninstaller212.x.g,android.widget.TextView) -> i
-    368:368:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
-    214:214:void onClick(android.view.View) -> onClick
-    368:368:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
-com.app.uninstaller.appuninstaller212.x.i -> b.a.a.a.h.b$b$b:
-    com.app.uninstaller.appuninstaller212.x.d D -> b
-    875:875:void <init>(com.app.uninstaller.appuninstaller212.x.d) -> <init>
-    697:9:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.j -> b.a.a.a.h.b$b$c$a:
-    com.app.uninstaller.appuninstaller212.x.q D -> b
-    52:52:void <init>(com.app.uninstaller.appuninstaller212.x.q) -> <init>
-    740:352:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.l -> b.a.a.a.h.b$b$d:
-    com.app.uninstaller.appuninstaller212.x.d D -> b
-    229:229:void <init>(com.app.uninstaller.appuninstaller212.x.d) -> <init>
-    796:579:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.m -> b.a.a.a.h.b$b$e:
-    com.app.uninstaller.appuninstaller212.x.d D -> b
-    174:174:void <init>(com.app.uninstaller.appuninstaller212.x.d) -> <init>
-    137:434:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.o -> b.a.a.a.h.a$b:
-    com.app.uninstaller.appuninstaller212.y.l F -> b
-    com.app.uninstaller.appuninstaller212.x.s D -> c
-    260:260:void <init>(com.app.uninstaller.appuninstaller212.x.s,com.app.uninstaller.appuninstaller212.y.l) -> <init>
-    436:634:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.q -> b.a.a.a.h.b$b$c:
-    com.app.uninstaller.appuninstaller212.x.d D -> b
-    45:45:void <init>(com.app.uninstaller.appuninstaller212.x.d) -> <init>
-    443:530:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.x.s -> b.a.a.a.h.a:
-    android.content.Context B -> a
-    android.app.Dialog L -> e
-    java.util.List H -> c
-    android.widget.TextView G -> d
-    com.app.uninstaller.appuninstaller212.c.l D -> g
-    android.widget.TextView F -> f
-    int C -> b
-    320:170:void <init>(android.content.Context,int,java.util.List) -> <init>
-    3:646:void h(com.app.uninstaller.appuninstaller212.x.w,int) -> a
-    611:611:android.widget.TextView g(com.app.uninstaller.appuninstaller212.x.s) -> a
-    611:611:android.widget.TextView g(com.app.uninstaller.appuninstaller212.x.s,android.widget.TextView) -> a
-    611:611:android.app.Dialog h(com.app.uninstaller.appuninstaller212.x.s,android.app.Dialog) -> a
-    749:771:com.app.uninstaller.appuninstaller212.x.w h(android.view.ViewGroup,int) -> a
-    611:611:android.app.Dialog h(com.app.uninstaller.appuninstaller212.x.s) -> b
-    611:611:android.content.Context h(com.app.uninstaller.appuninstaller212.x.s) -> b
-    611:611:android.widget.TextView h(com.app.uninstaller.appuninstaller212.x.s) -> b
-    611:611:android.widget.TextView h(com.app.uninstaller.appuninstaller212.x.s,android.widget.TextView) -> b
-    611:611:com.app.uninstaller.appuninstaller212.c.l h(com.app.uninstaller.appuninstaller212.x.s) -> b
-    40:40:int getItemCount() -> getItemCount
-    611:611:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
-    611:611:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
-com.app.uninstaller.appuninstaller212.x.t -> b.a.a.a.h.b$c:
-    android.widget.TextView B -> a
-    android.widget.ImageView F -> f
-    android.widget.TextView L -> e
-    android.widget.TextView G -> d
-    com.app.uninstaller.appuninstaller212.x.g H -> c
-    android.widget.CheckBox D -> g
-    android.widget.ImageView C -> b
-    749:3:void <init>(com.app.uninstaller.appuninstaller212.x.g,android.view.View) -> <init>
-com.app.uninstaller.appuninstaller212.x.w -> b.a.a.a.h.a$c:
-    android.widget.TextView L -> c
-    android.widget.TextView F -> d
-    com.app.uninstaller.appuninstaller212.x.s H -> a
-    android.widget.LinearLayout D -> e
-    android.widget.ImageView G -> b
-    119:798:void <init>(com.app.uninstaller.appuninstaller212.x.s,android.view.View) -> <init>
-com.app.uninstaller.appuninstaller212.x.y -> b.a.a.a.h.b$b$c$b:
-    com.app.uninstaller.appuninstaller212.x.q D -> b
-    32:32:void <init>(com.app.uninstaller.appuninstaller212.x.q) -> <init>
-    90:780:void onClick(android.view.View) -> onClick
-com.app.uninstaller.appuninstaller212.y.l -> b.a.a.a.i.a:
-    java.lang.String L -> h
-    android.graphics.drawable.Drawable D -> j
-    int H -> f
-    int G -> g
-    java.lang.String h -> a
-    java.lang.Float m -> c
-    java.lang.String k -> b
-    java.util.Date F -> i
-    java.lang.String C -> e
-    java.lang.String B -> d
-    142:695:void <init>() -> <init>
-    429:798:void a(java.lang.String) -> a
-    441:540:void g(int) -> a
-    574:515:void h(android.graphics.drawable.Drawable) -> a
-    712:712:java.lang.String a() -> a
-    797:623:void h(java.lang.Float) -> a
-    871:752:void h(java.util.Date) -> a
-    170:170:java.lang.String g() -> b
-    589:711:void h(int) -> b
-    611:611:int g() -> b
-    774:789:void g(java.lang.String) -> b
-    java.lang.String h(java.lang.String) -> c
-    14:14:java.lang.Float h() -> c
-    260:330:void h(java.lang.String) -> c
-    456:456:android.graphics.drawable.Drawable h() -> c
-    462:462:java.util.Date h() -> c
-    544:544:java.lang.String h() -> c
-    624:624:int h() -> c
-    376:376:java.lang.String i() -> d
-    795:291:void i(java.lang.String) -> d
-    715:324:void k(java.lang.String) -> e
-    779:779:java.lang.String k() -> e
+    java.lang.String K -> e
+    java.lang.String G -> d
+    712:533:void <init>(android.content.Context) -> <init>
+    318:318:android.database.sqlite.SQLiteDatabase l() -> a
+    222:786:void onCreate(android.database.sqlite.SQLiteDatabase) -> onCreate
+    341:341:void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int) -> onUpgrade
+com.app.uninstaller.appuninstaller212.u.a -> b.a.a.a.g.a$a:
+    android.widget.TextView A -> a
+    com.app.uninstaller.appuninstaller212.u.e L -> d
+    android.widget.TextView j -> e
+    android.widget.ImageView E -> b
+    android.widget.LinearLayout M -> c
+    647:262:void <init>(com.app.uninstaller.appuninstaller212.u.e,android.view.View) -> <init>
+com.app.uninstaller.appuninstaller212.u.b -> b.a.a.a.g.a$b$a:
+    com.app.uninstaller.appuninstaller212.u.o j -> b
+    316:316:void <init>(com.app.uninstaller.appuninstaller212.u.o) -> <init>
+    661:304:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.c -> b.a.a.a.g.b$a$a$a:
+    com.app.uninstaller.appuninstaller212.u.j j -> b
+    429:429:void <init>(com.app.uninstaller.appuninstaller212.u.j) -> <init>
+    405:174:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.e -> b.a.a.a.g.a:
+    android.widget.TextView e -> a
+    android.app.Dialog j -> g
+    android.widget.TextView A -> c
+    com.app.uninstaller.appuninstaller212.o.i E -> d
+    java.util.List M -> e
+    int a -> b
+    android.content.Context L -> f
+    863:150:void <init>(android.content.Context,int,java.util.List) -> <init>
+    79:608:com.app.uninstaller.appuninstaller212.u.a l(android.view.ViewGroup,int) -> a
+    241:241:android.widget.TextView k(com.app.uninstaller.appuninstaller212.u.e) -> a
+    241:241:android.widget.TextView k(com.app.uninstaller.appuninstaller212.u.e,android.widget.TextView) -> a
+    241:241:android.app.Dialog l(com.app.uninstaller.appuninstaller212.u.e,android.app.Dialog) -> a
+    684:543:void l(com.app.uninstaller.appuninstaller212.u.a,int) -> a
+    241:241:android.app.Dialog l(com.app.uninstaller.appuninstaller212.u.e) -> b
+    241:241:android.content.Context l(com.app.uninstaller.appuninstaller212.u.e) -> b
+    241:241:android.widget.TextView l(com.app.uninstaller.appuninstaller212.u.e) -> b
+    241:241:android.widget.TextView l(com.app.uninstaller.appuninstaller212.u.e,android.widget.TextView) -> b
+    241:241:com.app.uninstaller.appuninstaller212.o.i l(com.app.uninstaller.appuninstaller212.u.e) -> b
+    720:720:int getItemCount() -> getItemCount
+    241:241:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
+    241:241:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+com.app.uninstaller.appuninstaller212.u.g -> b.a.a.a.g.b$a$b:
+    com.app.uninstaller.appuninstaller212.u.t j -> a
+    420:420:void <init>(com.app.uninstaller.appuninstaller212.u.t) -> <init>
+    634:634:void onCheckedChanged(android.widget.CompoundButton,boolean) -> onCheckedChanged
+com.app.uninstaller.appuninstaller212.u.h -> b.a.a.a.g.a$b$b:
+    com.app.uninstaller.appuninstaller212.u.o j -> b
+    763:763:void <init>(com.app.uninstaller.appuninstaller212.u.o) -> <init>
+    384:30:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.i -> b.a.a.a.g.b$a$c:
+    com.app.uninstaller.appuninstaller212.u.t j -> b
+    663:663:void <init>(com.app.uninstaller.appuninstaller212.u.t) -> <init>
+    513:276:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.j -> b.a.a.a.g.b$a$a:
+    com.app.uninstaller.appuninstaller212.u.t j -> b
+    182:182:void <init>(com.app.uninstaller.appuninstaller212.u.t) -> <init>
+    18:314:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.o -> b.a.a.a.g.a$b:
+    com.app.uninstaller.appuninstaller212.u.e j -> c
+    com.app.uninstaller.appuninstaller212.x.i L -> b
+    191:191:void <init>(com.app.uninstaller.appuninstaller212.u.e,com.app.uninstaller.appuninstaller212.x.i) -> <init>
+    382:9:boolean onLongClick(android.view.View) -> onLongClick
+com.app.uninstaller.appuninstaller212.u.p -> b.a.a.a.g.b$b:
+    com.app.uninstaller.appuninstaller212.u.v L -> c
+    float M -> b
+    com.app.uninstaller.appuninstaller212.x.i j -> d
+    691:691:void <init>(com.app.uninstaller.appuninstaller212.u.v,com.app.uninstaller.appuninstaller212.x.i,float) -> <init>
+    335:699:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.q -> b.a.a.a.g.a$c:
+    com.app.uninstaller.appuninstaller212.u.e L -> b
+    com.app.uninstaller.appuninstaller212.x.i j -> c
+    840:840:void <init>(com.app.uninstaller.appuninstaller212.u.e,com.app.uninstaller.appuninstaller212.x.i) -> <init>
+    691:219:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.t -> b.a.a.a.g.b$a:
+    com.app.uninstaller.appuninstaller212.u.v M -> c
+    com.app.uninstaller.appuninstaller212.u.y L -> d
+    com.app.uninstaller.appuninstaller212.x.i j -> e
+    java.lang.String E -> b
+    543:543:void <init>(com.app.uninstaller.appuninstaller212.u.v,com.app.uninstaller.appuninstaller212.u.y,com.app.uninstaller.appuninstaller212.x.i,java.lang.String) -> <init>
+    816:162:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.v -> b.a.a.a.g.b:
+    android.widget.TextView G -> o
+    java.util.List K -> p
+    android.widget.TextView e -> r
+    int I -> i
+    boolean E -> u
+    android.widget.TextView L -> w
+    android.widget.TextView j -> x
+    android.app.Dialog J -> b
+    android.widget.ImageView C -> c
+    android.content.Context a -> s
+    android.widget.TextView D -> d
+    com.app.uninstaller.appuninstaller212.y B -> k
+    android.widget.TextView m -> g
+    android.app.Dialog k -> n
+    int M -> v
+    android.widget.TextView b -> f
+    double l -> e
+    android.widget.TextView c -> h
+    com.app.uninstaller.appuninstaller212.o.i f -> l
+    android.widget.ImageView A -> t
+    android.widget.TextView g -> j
+    java.util.List i -> m
+    int h -> q
+    444:647:void <init>(android.content.Context,int,java.util.List,boolean,com.app.uninstaller.appuninstaller212.y) -> <init>
+    3:412:void l(com.app.uninstaller.appuninstaller212.u.y,int) -> a
+    70:675:com.app.uninstaller.appuninstaller212.u.y l(android.view.ViewGroup,int) -> a
+    660:660:android.widget.TextView A(com.app.uninstaller.appuninstaller212.u.v) -> a
+    660:660:android.widget.TextView A(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> a
+    660:660:android.app.Dialog k(com.app.uninstaller.appuninstaller212.u.v,android.app.Dialog) -> a
+    660:660:android.widget.ImageView k(com.app.uninstaller.appuninstaller212.u.v,android.widget.ImageView) -> a
+    660:660:com.app.uninstaller.appuninstaller212.o.i l(com.app.uninstaller.appuninstaller212.u.v,com.app.uninstaller.appuninstaller212.o.i) -> a
+    660:660:android.widget.TextView B(com.app.uninstaller.appuninstaller212.u.v) -> b
+    660:660:android.widget.TextView B(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> b
+    660:660:android.app.Dialog l(com.app.uninstaller.appuninstaller212.u.v,android.app.Dialog) -> b
+    660:660:android.widget.ImageView l(com.app.uninstaller.appuninstaller212.u.v,android.widget.ImageView) -> b
+    660:660:android.widget.TextView K(com.app.uninstaller.appuninstaller212.u.v) -> c
+    660:660:android.widget.TextView K(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> c
+    660:660:android.widget.TextView b(com.app.uninstaller.appuninstaller212.u.v) -> d
+    660:660:android.widget.TextView b(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> d
+    660:660:android.widget.TextView f(com.app.uninstaller.appuninstaller212.u.v) -> e
+    660:660:android.widget.TextView f(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> e
+    660:660:android.widget.TextView g(com.app.uninstaller.appuninstaller212.u.v) -> f
+    660:660:android.widget.TextView g(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> f
+    660:660:android.widget.TextView j(com.app.uninstaller.appuninstaller212.u.v) -> g
+    660:660:android.widget.TextView j(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> g
+    878:878:int getItemCount() -> getItemCount
+    660:660:android.app.Dialog k(com.app.uninstaller.appuninstaller212.u.v) -> h
+    660:660:android.widget.ImageView k(com.app.uninstaller.appuninstaller212.u.v) -> h
+    660:660:android.widget.TextView k(com.app.uninstaller.appuninstaller212.u.v) -> h
+    660:660:android.widget.TextView k(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> h
+    660:660:int l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:android.app.Dialog l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:android.content.Context l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:android.widget.ImageView l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:android.widget.TextView l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:android.widget.TextView l(com.app.uninstaller.appuninstaller212.u.v,android.widget.TextView) -> i
+    660:660:com.app.uninstaller.appuninstaller212.o.i l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:boolean l(com.app.uninstaller.appuninstaller212.u.v) -> i
+    660:660:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
+    296:296:void onClick(android.view.View) -> onClick
+    660:660:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+com.app.uninstaller.appuninstaller212.u.w -> b.a.a.a.g.b$a$d:
+    com.app.uninstaller.appuninstaller212.u.t j -> b
+    52:52:void <init>(com.app.uninstaller.appuninstaller212.u.t) -> <init>
+    546:730:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.x -> b.a.a.a.g.b$a$e:
+    com.app.uninstaller.appuninstaller212.u.t j -> b
+    575:575:void <init>(com.app.uninstaller.appuninstaller212.u.t) -> <init>
+    300:57:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.u.y -> b.a.a.a.g.b$c:
+    android.widget.CheckBox A -> c
+    android.widget.TextView e -> a
+    com.app.uninstaller.appuninstaller212.u.v E -> d
+    android.widget.TextView j -> g
+    android.widget.TextView L -> f
+    android.widget.ImageView M -> e
+    android.widget.ImageView a -> b
+    79:684:void <init>(com.app.uninstaller.appuninstaller212.u.v,android.view.View) -> <init>
+com.app.uninstaller.appuninstaller212.u.z -> b.a.a.a.g.b$a$a$b:
+    com.app.uninstaller.appuninstaller212.u.j j -> b
+    590:590:void <init>(com.app.uninstaller.appuninstaller212.u.j) -> <init>
+    389:707:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.x.i -> b.a.a.a.h.a:
+    java.util.Date A -> f
+    java.lang.String L -> i
+    java.lang.String M -> h
+    android.graphics.drawable.Drawable E -> g
+    int e -> d
+    int K -> b
+    java.lang.String h -> c
+    java.lang.Float G -> a
+    java.lang.String a -> e
+    260:238:void <init>() -> <init>
+    6:262:void A(java.lang.String) -> a
+    186:22:void l(android.graphics.drawable.Drawable) -> a
+    465:692:void l(java.util.Date) -> a
+    662:127:void k(int) -> a
+    675:804:void l(java.lang.Float) -> a
+    818:818:java.lang.String A() -> a
+    578:578:java.lang.String b() -> b
+    711:505:void l(int) -> b
+    840:251:void b(java.lang.String) -> b
+    150:150:java.lang.String f() -> c
+    184:807:void f(java.lang.String) -> c
+    241:241:int k() -> d
+    402:402:java.lang.String k() -> d
+    445:398:void k(java.lang.String) -> d
+    java.lang.String l(java.lang.String) -> e
+    176:176:android.graphics.drawable.Drawable l() -> e
+    639:639:java.util.Date l() -> e
+    712:533:void l(java.lang.String) -> e
+    714:714:java.lang.String l() -> e
+    785:785:java.lang.Float l() -> e
+    806:806:int l() -> e
+com.app.uninstaller.appuninstaller212.x.y -> b.a.a.a.h.b:
+    java.lang.String E -> a
+    java.lang.String M -> b
+    int L -> c
+    java.lang.String j -> d
+    479:221:void <init>() -> <init>
+    184:807:void A(java.lang.String) -> a
+    578:578:java.lang.String A() -> a
+    662:127:void l(int) -> a
+    712:533:void k(java.lang.String) -> b
+    714:714:java.lang.String k() -> b
+    233:233:java.lang.String l() -> c
+    241:241:int l() -> c
+    260:238:void l(java.lang.String) -> c
+com.app.uninstaller.appuninstaller212.y -> b.a.a.a.j:
+    void l(int,double,java.util.List) -> a
+com.app.uninstaller.appuninstaller212.y.a -> b.a.a.a.i.a$a:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    206:206:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    388:388:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    206:206:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.b -> b.a.a.a.i.a$b:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    70:70:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    798:798:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    70:70:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.c -> b.a.a.a.i.b$a:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    290:290:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    251:251:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    290:290:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.e -> b.a.a.a.i.a:
+    java.lang.String L -> g
+    androidx.recyclerview.widget.RecyclerView a -> c
+    java.util.List E -> e
+    com.app.uninstaller.appuninstaller212.u.v M -> f
+    android.content.SharedPreferences e -> b
+    java.util.List j -> h
+    java.lang.String A -> d
+    222:793:void <init>() -> <init>
+    222:222:void l(com.app.uninstaller.appuninstaller212.y.e) -> a
+    370:370:void l(int,double,java.util.List) -> a
+    871:625:java.lang.String l(java.lang.String) -> a
+    199:343:void l() -> b
+    376:341:android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle) -> onCreateView
+    402:91:void onResume() -> onResume
+com.app.uninstaller.appuninstaller212.y.g -> b.a.a.a.i.b$b:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    785:785:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    70:827:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    785:785:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.h -> b.a.a.a.i.a$c:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    44:44:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    840:227:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    44:44:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.i -> b.a.a.a.i.b$c:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    680:680:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    40:40:void afterTextChanged(android.text.Editable) -> afterTextChanged
+    524:524:void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    30:466:void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+com.app.uninstaller.appuninstaller212.y.j -> b.a.a.a.i.b$d:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    446:446:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    255:255:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    446:446:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.o -> b.a.a.a.i.a$d:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    212:212:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    635:635:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    212:212:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.p -> b.a.a.a.i.a$e:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    763:763:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    816:816:void afterTextChanged(android.text.Editable) -> afterTextChanged
+    384:384:void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    406:543:void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+com.app.uninstaller.appuninstaller212.y.q -> b.a.a.a.i.a$f:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    228:228:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    79:528:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    228:228:int compare(java.lang.Object,java.lang.Object) -> compare
 com.app.uninstaller.appuninstaller212.y.t -> b.a.a.a.i.b:
-    java.lang.String G -> a
-    int L -> b
-    java.lang.String F -> c
-    java.lang.String D -> d
-    54:270:void <init>() -> <init>
-    142:695:void g(java.lang.String) -> a
-    589:711:void h(int) -> a
-    779:779:java.lang.String g() -> a
-    611:611:int h() -> b
-    768:768:java.lang.String h() -> b
-    795:291:void h(java.lang.String) -> b
-    712:712:java.lang.String i() -> c
-    774:789:void i(java.lang.String) -> c
-com.app.uninstaller.appuninstaller212.z.l -> b.a.a.a.j.a:
-    270:270:void <init>() -> <init>
-    695:291:java.util.Date g(java.lang.String) -> a
-    768:244:java.lang.String h() -> a
-    725:320:java.util.Date h(java.lang.String) -> b
-com.app.uninstaller.appuninstaller212.z.m -> b.a.a.a.j.b:
-    712:712:void <init>() -> <init>
-    java.lang.String h(java.lang.String) -> a
-    170:183:java.util.ArrayList g(android.content.Context) -> a
-    326:789:java.util.ArrayList h(boolean,android.content.Context) -> a
-    549:607:float h(android.content.Context,java.lang.String) -> a
-    685:494:java.lang.String h(java.util.Date) -> a
-    780:182:java.util.Date h(java.util.Date[]) -> a
-    824:824:java.util.Date g(android.content.pm.PackageManager,java.lang.String) -> a
-    623:404:java.util.ArrayList h(android.content.Context) -> b
-    661:463:java.util.Date h(android.content.pm.PackageManager,java.lang.String) -> b
-    743:131:java.util.Date i(android.content.pm.PackageManager,java.lang.String) -> c
-com.app.uninstaller.appuninstaller212.z.t -> b.a.a.a.j.c:
-    756:756:void <init>() -> <init>
-    java.lang.String h(java.lang.String) -> a
-    270:658:float h() -> a
-    291:214:java.lang.String h(float) -> a
-    695:354:long h() -> a
+    androidx.recyclerview.widget.RecyclerView a -> f
+    java.lang.String E -> h
+    java.util.List h -> d
+    com.app.uninstaller.appuninstaller212.u.v G -> b
+    java.util.List M -> i
+    boolean A -> g
+    int K -> c
+    com.app.uninstaller.appuninstaller212.o.i j -> k
+    android.content.SharedPreferences L -> j
+    376:402:void <init>() -> <init>
+    52:431:java.lang.String l(java.lang.String) -> a
+    376:376:void l(com.app.uninstaller.appuninstaller212.y.t) -> a
+    586:707:void l(int,double,java.util.List) -> a
+    871:408:void l() -> b
+    314:156:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    262:79:android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle) -> onCreateView
+    658:370:void onResume() -> onResume
+com.app.uninstaller.appuninstaller212.y.v -> b.a.a.a.i.a$g:
+    com.app.uninstaller.appuninstaller212.y.e j -> b
+    476:476:void <init>(com.app.uninstaller.appuninstaller212.y.e) -> <init>
+    532:532:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    476:476:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.w -> b.a.a.a.i.b$e:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    699:699:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    855:855:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    699:699:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.x -> b.a.a.a.i.b$f:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    661:661:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    763:763:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    661:661:int compare(java.lang.Object,java.lang.Object) -> compare
+com.app.uninstaller.appuninstaller212.y.y -> b.a.a.a.i.b$g:
+    com.app.uninstaller.appuninstaller212.o.i j -> d
+    java.util.List L -> c
+    com.app.uninstaller.appuninstaller212.y.t M -> b
+    203:203:void <init>(com.app.uninstaller.appuninstaller212.y.t,java.util.List,com.app.uninstaller.appuninstaller212.o.i) -> <init>
+    174:623:void onClick(android.view.View) -> onClick
+com.app.uninstaller.appuninstaller212.y.z -> b.a.a.a.i.b$h:
+    com.app.uninstaller.appuninstaller212.y.t j -> b
+    746:746:void <init>(com.app.uninstaller.appuninstaller212.y.t) -> <init>
+    594:191:int l(com.app.uninstaller.appuninstaller212.x.i,com.app.uninstaller.appuninstaller212.x.i) -> a
+    746:746:int compare(java.lang.Object,java.lang.Object) -> compare
 com.google.android.material.R -> com.google.android.material.R:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 com.google.android.material.R$anim -> com.google.android.material.R$anim:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 com.google.android.material.R$animator -> com.google.android.material.R$animator:
-    413:413:void <init>() -> <init>
+    444:444:void <init>() -> <init>
 com.google.android.material.R$attr -> com.google.android.material.R$attr:
-    441:441:void <init>() -> <init>
+    711:711:void <init>() -> <init>
 com.google.android.material.R$bool -> com.google.android.material.R$bool:
-    47:47:void <init>() -> <init>
+    626:626:void <init>() -> <init>
 com.google.android.material.R$color -> com.google.android.material.R$color:
-    524:524:void <init>() -> <init>
+    13:13:void <init>() -> <init>
 com.google.android.material.R$dimen -> com.google.android.material.R$dimen:
-    1207:1207:void <init>() -> <init>
+    3469:3469:void <init>() -> <init>
 com.google.android.material.R$drawable -> com.google.android.material.R$drawable:
-    1871:1871:void <init>() -> <init>
+    2351:2351:void <init>() -> <init>
 com.google.android.material.R$id -> com.google.android.material.R$id:
-    1670:1670:void <init>() -> <init>
+    3206:3206:void <init>() -> <init>
 com.google.android.material.R$integer -> com.google.android.material.R$integer:
-    2177:2177:void <init>() -> <init>
+    1768:1768:void <init>() -> <init>
 com.google.android.material.R$interpolator -> com.google.android.material.R$interpolator:
-    3531:3531:void <init>() -> <init>
+    1085:1085:void <init>() -> <init>
 com.google.android.material.R$layout -> com.google.android.material.R$layout:
-    3148:3148:void <init>() -> <init>
+    1399:1399:void <init>() -> <init>
 com.google.android.material.R$plurals -> com.google.android.material.R$plurals:
-    3223:3223:void <init>() -> <init>
+    2066:2066:void <init>() -> <init>
 com.google.android.material.R$string -> com.google.android.material.R$string:
-    1210:1210:void <init>() -> <init>
+    1176:1176:void <init>() -> <init>
 com.google.android.material.R$style -> com.google.android.material.R$style:
-    2694:2694:void <init>() -> <init>
+    3096:3096:void <init>() -> <init>
 com.google.android.material.R$styleable -> com.google.android.material.R$styleable:
-    3178:1348:void <clinit>() -> <clinit>
-    1108:1108:void <init>() -> <init>
+    3064:1661:void <clinit>() -> <clinit>
+    2296:2296:void <init>() -> <init>
 com.google.android.material.R$xml -> com.google.android.material.R$xml:
-    1770:1770:void <init>() -> <init>
+    1020:1020:void <init>() -> <init>
 com.google.android.material.animation.AnimationUtils -> com.google.android.material.animation.AnimationUtils:
     36:43:void <clinit>() -> <clinit>
     34:34:void <init>() -> <init>
@@ -27779,10 +27776,10 @@ com.intuit.sdp.BuildConfig -> b.b.a.a:
     java.lang.String FLAVOR -> d
     6:6:void <init>() -> <init>
 com.intuit.sdp.R -> b.b.a.b:
-    301:301:void <init>() -> <init>
+    668:668:void <init>() -> <init>
 com.intuit.sdp.R$dimen -> b.b.a.b$a:
-    236:236:void <init>() -> <init>
+    455:455:void <init>() -> <init>
 com.intuit.sdp.R$id -> b.b.a.b$b:
-    499:499:void <init>() -> <init>
+    740:740:void <init>() -> <init>
 com.intuit.sdp.R$layout -> b.b.a.b$c:
-    47:47:void <init>() -> <init>
+    626:626:void <init>() -> <init>
